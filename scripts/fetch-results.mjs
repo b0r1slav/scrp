@@ -1,8 +1,9 @@
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 
 const API_ROOT = 'https://api.citoapi.com/api/v1/tennis';
 const OUTPUT = resolve('data/results.json');
+const PLAYER_OUTPUT = resolve('data/players');
 const PLAYERS = [
   ['sinner-jannik', 'Jannik Sinner'],
   ['alcaraz-garfia-carlos', 'Carlos Alcaraz'],
@@ -26,6 +27,16 @@ const PLAYERS = [
 
 const apiKey = process.env.CITO_API_KEY;
 if (!apiKey) throw new Error('CITO_API_KEY is not set.');
+
+const requestedSlugs = new Set(process.argv.slice(2));
+const selectedPlayers = requestedSlugs.size
+  ? PLAYERS.filter(([slug]) => requestedSlugs.has(slug))
+  : PLAYERS;
+if (requestedSlugs.size && selectedPlayers.length !== requestedSlugs.size) {
+  const known = new Set(PLAYERS.map(([slug]) => slug));
+  const unknown = [...requestedSlugs].filter(slug => !known.has(slug));
+  throw new Error(`Unknown player slug${unknown.length === 1 ? '' : 's'}: ${unknown.join(', ')}`);
+}
 
 async function api(path) {
   const response = await fetch(`${API_ROOT}${path}`, {
@@ -68,16 +79,25 @@ async function fetchPlayer(slug, name) {
 }
 
 const data = {};
-for (const [slug, name] of PLAYERS) {
+for (const [slug, name] of selectedPlayers) {
   const [key, records] = await fetchPlayer(slug, name);
   data[key] = records;
+  await mkdir(PLAYER_OUTPUT, { recursive: true });
+  await writeFile(resolve(PLAYER_OUTPUT, `${slug}.json`), `${JSON.stringify({ source: 'Cito API', player: slug, updated_at: new Date().toISOString(), matches: records }, null, 2)}\n`);
   console.log(`${name}: received ${records.length} scored records`);
 }
 
+// Preserve the aggregate artifact for older clients, merging selected results into it.
+let prior = {};
+try {
+  const existing = JSON.parse(await readFile(OUTPUT, 'utf8'));
+  if (existing?.players && typeof existing.players === 'object') prior = existing.players;
+} catch {}
+const merged = { ...prior, ...data };
 const output = {
   source: 'Cito API',
   updated_at: new Date().toISOString(),
-  players: data,
+  players: merged,
 };
 await mkdir(dirname(OUTPUT), { recursive: true });
 await writeFile(OUTPUT, `${JSON.stringify(output, null, 2)}\n`);

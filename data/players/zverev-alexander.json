@@ -1,0 +1,4507 @@
+{
+  "source": "Cito API",
+  "player": "zverev-alexander",
+  "updated_at": "2026-10-15T14:56:40.851Z",
+  "matches": [
+    {
+      "player": "zverev-alexander",
+      "date": "2026-10-15",
+      "opponent": "Alex De Minaur",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-10-13",
+      "opponent": "Alexander Bublik",
+      "score": "7-6 4-6 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-10-11",
+      "opponent": "Quentin Halys",
+      "score": "6-4 6-7 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-10-09",
+      "opponent": "Yibing Wu",
+      "score": "6-4 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-10-04",
+      "opponent": "Novak Djokovic",
+      "score": "4-6 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-10-03",
+      "opponent": "Juncheng Shang",
+      "score": "6-0 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-10-01",
+      "opponent": "Cameron Norrie",
+      "score": "7-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-27",
+      "opponent": "Learner Tien",
+      "score": "7-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-26",
+      "opponent": "Alex De Minaur",
+      "score": "2-6 7-6 1-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-20",
+      "opponent": "Dino Prizmic",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-19",
+      "opponent": "Matej Dodig",
+      "score": "6-4 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-13",
+      "opponent": "Ben Shelton",
+      "score": "6-3 7-6 5-7 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-11",
+      "opponent": "Karen Khachanov",
+      "score": "6-3 7-6 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-10",
+      "opponent": "Botic Van De Zandschulp",
+      "score": "6-2 7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-08",
+      "opponent": "Luciano Darderi",
+      "score": "6-2 6-2 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-06",
+      "opponent": "Alejandro Tabilo",
+      "score": "6-2 7-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-04",
+      "opponent": "Quentin Halys",
+      "score": "6-4 4-6 7-6 6-7 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-09-02",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-4 3-6 6-7 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-08-19",
+      "opponent": "Tommy Paul",
+      "score": "4-6 7-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-08-17",
+      "opponent": "Terence Atmane",
+      "score": "7-6 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-08-16",
+      "opponent": "Cameron Norrie",
+      "score": "3-6 6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-08-05",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-7 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-07-12",
+      "opponent": "Jannik Sinner",
+      "score": "6-7 7-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-07-10",
+      "opponent": "Arthur Fery",
+      "score": "7-6 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-07-08",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-07-07",
+      "opponent": "Jiri Lehecka",
+      "score": "6-4 7-5 3-6 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-07-04",
+      "opponent": "Marcos Giron",
+      "score": "6-2 7-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-07-02",
+      "opponent": "Valentin Royer",
+      "score": "6-1 6-3 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-06-30",
+      "opponent": "Alexander Blockx",
+      "score": "6-4 6-7 7-6 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-06-20",
+      "opponent": "Taylor Fritz",
+      "score": "6-7 6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-06-19",
+      "opponent": "Raphael Collignon",
+      "score": "7-6 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-06-18",
+      "opponent": "Yannick Hanfmann",
+      "score": "6-3 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-06-16",
+      "opponent": "Vit Kopriva",
+      "score": "6-3 4-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-05-25",
+      "opponent": "Flavio Cobolli",
+      "score": "6-1 4-6 6-4 6-7(5) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-05-25",
+      "opponent": "Jakub Mensik",
+      "score": "7-5 6-2 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-05-25",
+      "opponent": "Rafael Jodar",
+      "score": "7-6(3) 6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-05-25",
+      "opponent": "Jesper De Jong",
+      "score": "7-6(3) 6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-05-25",
+      "opponent": "Quentin Halys",
+      "score": "6-4 6-3 5-7 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-05-25",
+      "opponent": "Tomas Machac",
+      "score": "6-4 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-05-25",
+      "opponent": "Benjamin Bonzi",
+      "score": "6-3 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-05-06",
+      "opponent": "Luciano Darderi",
+      "score": "1-6 7-6(10) 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-05-06",
+      "opponent": "Alexander Blockx",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-05-06",
+      "opponent": "Daniel Altmaier",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-22",
+      "opponent": "Jannik Sinner",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-22",
+      "opponent": "Alexander Blockx",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-22",
+      "opponent": "Flavio Cobolli",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-22",
+      "opponent": "Jakub Mensik",
+      "score": "6-4 6-7(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-22",
+      "opponent": "Terence Atmane",
+      "score": "6-3 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-22",
+      "opponent": "Mariano Navone",
+      "score": "6-1 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-18",
+      "opponent": "Flavio Cobolli",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-17",
+      "opponent": "Francisco Cerundolo",
+      "score": "5-7 6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-16",
+      "opponent": "Gabriel Diallo",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-14",
+      "opponent": "Miomir Kecmanovic",
+      "score": "6-3 3-6 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-05",
+      "opponent": "Jannik Sinner",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-05",
+      "opponent": "Joao Fonseca",
+      "score": "7-5 6-7(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-05",
+      "opponent": "Zizou Bergs",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-04-05",
+      "opponent": "Cristian Garin",
+      "score": "4-6 6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-03-18",
+      "opponent": "Jannik Sinner",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-03-18",
+      "opponent": "Francisco Cerundolo",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-03-18",
+      "opponent": "Quentin Halys",
+      "score": "7-6(4) 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-03-18",
+      "opponent": "Marin Cilic",
+      "score": "6-2 5-7 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-03-18",
+      "opponent": "Martin Damm",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-03-04",
+      "opponent": "Jannik Sinner",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-03-04",
+      "opponent": "Arthur Fils",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-03-04",
+      "opponent": "Frances Tiafoe",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-03-04",
+      "opponent": "Brandon Nakashima",
+      "score": "7-6(2) 5-7 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-03-04",
+      "opponent": "Matteo Berrettini",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-02-26",
+      "opponent": "Miomir Kecmanovic",
+      "score": "6-3 6-7(3) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-02-25",
+      "opponent": "Corentin Moutet",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-01-30",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-4 7-6(5) 6-7(3) 6-7(4) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-01-27",
+      "opponent": "Learner Tien",
+      "score": "6-3 6-7(5) 6-1 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-01-25",
+      "opponent": "Francisco Cerundolo",
+      "score": "6-2 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-01-23",
+      "opponent": "Cameron Norrie",
+      "score": "7-5 4-6 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-01-21",
+      "opponent": "Alexandre Muller",
+      "score": "6-3 4-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-01-18",
+      "opponent": "Gabriel Diallo",
+      "score": "6-7(1) 6-1 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-01-05",
+      "opponent": "Hubert Hurkacz",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2026-01-04",
+      "opponent": "Tallon Griekspoor",
+      "score": "7-5 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-11-22",
+      "opponent": "Jaume Munar",
+      "score": "7-6(2) 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-11-20",
+      "opponent": "Francisco Cerundolo",
+      "score": "6-4 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-11-09",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-11-09",
+      "opponent": "Ben Shelton",
+      "score": "6-3 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-11-09",
+      "opponent": "Jannik Sinner",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-27",
+      "opponent": "Jannik Sinner",
+      "score": "6-0 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-27",
+      "opponent": "Daniil Medvedev",
+      "score": "2-6 6-3 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-27",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-27",
+      "opponent": "Camilo Ugo Carabelli",
+      "score": "6-7(5) 6-1 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-26",
+      "opponent": "Jannik Sinner",
+      "score": "3-6 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-25",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-24",
+      "opponent": "Tallon Griekspoor",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-23",
+      "opponent": "Matteo Arnaldi",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-21",
+      "opponent": "Jacob Fearnley",
+      "score": "6-4 1-6 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-01",
+      "opponent": "Arthur Rinderknech",
+      "score": "4-6 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-10-01",
+      "opponent": "Valentin Royer",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-09-29",
+      "opponent": "Daniil Medvedev",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-09-28",
+      "opponent": "Corentin Moutet",
+      "score": "7-5 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-09-26",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-09-19",
+      "opponent": "Taylor Fritz",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-09-19",
+      "opponent": "Alex De Minaur",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-08-31",
+      "opponent": "Felix Auger Aliassime",
+      "score": "4-6 7-6(7) 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-08-29",
+      "opponent": "Jacob Fearnley",
+      "score": "6-4 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-08-27",
+      "opponent": "Alejandro Tabilo",
+      "score": "6-2 7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-08-17",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-08-16",
+      "opponent": "Ben Shelton",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-08-14",
+      "opponent": "Karen Khachanov",
+      "score": "7-5 3-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-08-13",
+      "opponent": "Brandon Nakashima",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-08-11",
+      "opponent": "Nishesh Basavareddy",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-07-27",
+      "opponent": "Karen Khachanov",
+      "score": "6-3 4-6 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-07-27",
+      "opponent": "Alexei Popyrin",
+      "score": "6-7(8) 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-07-27",
+      "opponent": "Francisco Cerundolo",
+      "score": "6-4 1-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-07-27",
+      "opponent": "Matteo Arnaldi",
+      "score": "6-7(5) 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-07-27",
+      "opponent": "Adam Walton",
+      "score": "7-6(6) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-07-01",
+      "opponent": "Arthur Rinderknech",
+      "score": "7-6(3) 6-7(8) 6-3 6-7(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-06-21",
+      "opponent": "Daniil Medvedev",
+      "score": "7-6(3) 6-7(1) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-06-20",
+      "opponent": "Flavio Cobolli",
+      "score": "6-4 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-06-19",
+      "opponent": "Lorenzo Sonego",
+      "score": "3-6 6-4 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-06-18",
+      "opponent": "Marcos Giron",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-06-15",
+      "opponent": "Taylor Fritz",
+      "score": "6-3 7-6(0)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-06-14",
+      "opponent": "Ben Shelton",
+      "score": "7-6(8) 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-06-13",
+      "opponent": "Brandon Nakashima",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-06-12",
+      "opponent": "Corentin Moutet",
+      "score": "6-2 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-26",
+      "opponent": "Novak Djokovic",
+      "score": "4-6 6-3 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-26",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-4 3-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-26",
+      "opponent": "Flavio Cobolli",
+      "score": "6-2 7-6(4) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-26",
+      "opponent": "Jesper De Jong",
+      "score": "3-6 6-1 6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-26",
+      "opponent": "Learner Tien",
+      "score": "6-3 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-21",
+      "opponent": "Alexandre Muller",
+      "score": "6-3 4-6 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-19",
+      "opponent": "Aleksandar Kovacevic",
+      "score": "6-1 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-07",
+      "opponent": "Lorenzo Musetti",
+      "score": "7-6(1) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-07",
+      "opponent": "Arthur Fils",
+      "score": "7-6(3) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-07",
+      "opponent": "Vilius Gaubas",
+      "score": "6-4 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-05-07",
+      "opponent": "Camilo Ugo Carabelli",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-04-23",
+      "opponent": "Francisco Cerundolo",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-04-23",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "2-6 7-6(3) 7-6(0)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-04-23",
+      "opponent": "Roberto Bautista Agut",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-04-20",
+      "opponent": "Ben Shelton",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-04-19",
+      "opponent": "Fabian Marozsan",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-04-18",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-7(6) 7-6(3) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-04-16",
+      "opponent": "Daniel Altmaier",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-04-14",
+      "opponent": "Alexandre Muller",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-04-07",
+      "opponent": "Matteo Berrettini",
+      "score": "2-6 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-03-19",
+      "opponent": "Arthur Fils",
+      "score": "3-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-03-19",
+      "opponent": "Jordan Thompson",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-03-19",
+      "opponent": "Jacob Fearnley",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-03-05",
+      "opponent": "Tallon Griekspoor",
+      "score": "4-6 7-6(5) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-02-27",
+      "opponent": "Learner Tien",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-02-26",
+      "opponent": "Matteo Arnaldi",
+      "score": "6-7(2) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-02-21",
+      "opponent": "Francisco Comesana",
+      "score": "4-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-02-20",
+      "opponent": "Alexander Shevchenko",
+      "score": "7-6(1) 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-02-18",
+      "opponent": "Bu Yunchaokete",
+      "score": "7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-02-15",
+      "opponent": "Francisco Cerundolo",
+      "score": "3-6 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-02-12",
+      "opponent": "Dusan Lajovic",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-01-26",
+      "opponent": "Jannik Sinner",
+      "score": "6-3 7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-01-24",
+      "opponent": "Novak Djokovic",
+      "score": "7-6(5) 0-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-01-21",
+      "opponent": "Tommy Paul",
+      "score": "7-6(1) 7-6(0) 2-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-01-19",
+      "opponent": "Ugo Humbert",
+      "score": "6-1 2-6 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-01-17",
+      "opponent": "Jacob Fearnley",
+      "score": "6-3 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-01-15",
+      "opponent": "Pedro Martinez",
+      "score": "6-1 6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2025-01-12",
+      "opponent": "Lucas Pouille",
+      "score": "6-4 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-12-30",
+      "opponent": "Zhizhen Zhang",
+      "score": "2-6 6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-12-29",
+      "opponent": "Thiago Monteiro",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-11-11",
+      "opponent": "Andrey Rublev",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-11-11",
+      "opponent": "Casper Ruud",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-11-11",
+      "opponent": "Carlos Alcaraz",
+      "score": "7-6(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-11-11",
+      "opponent": "Taylor Fritz",
+      "score": "6-3 3-6 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-28",
+      "opponent": "Ugo Humbert",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-28",
+      "opponent": "Holger Rune",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-28",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-28",
+      "opponent": "Arthur Fils",
+      "score": "6-4 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-28",
+      "opponent": "Tallon Griekspoor",
+      "score": "7-6(2) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-25",
+      "opponent": "Lorenzo Musetti",
+      "score": "2-6 7-6(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-23",
+      "opponent": "Marcos Giron",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-21",
+      "opponent": "Joel Schwaerzler",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-02",
+      "opponent": "David Goffin",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-02",
+      "opponent": "Tallon Griekspoor",
+      "score": "7-6(6) 2-6 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-10-02",
+      "opponent": "Mattia Bellucci",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-09-20",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-09-20",
+      "opponent": "Frances Tiafoe",
+      "score": "6-7(5) 7-5 [10-5]",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-09-03",
+      "opponent": "Taylor Fritz",
+      "score": "7-6(2) 3-6 6-4 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-09-01",
+      "opponent": "Brandon Nakashima",
+      "score": "3-6 6-1 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-31",
+      "opponent": "Tomas Martin Etcheverry",
+      "score": "5-7 7-5 6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-28",
+      "opponent": "Alexandre Muller",
+      "score": "6-4 7-6(5) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-26",
+      "opponent": "Maximilian Marterer",
+      "score": "6-2 6-7(5) 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-12",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(9) 5-7 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-12",
+      "opponent": "Ben Shelton",
+      "score": "3-6 7-6(3) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-12",
+      "opponent": "Pablo Carreno Busta",
+      "score": "7-5 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-12",
+      "opponent": "Karen Khachanov",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-05",
+      "opponent": "Sebastian Korda",
+      "score": "7-6(5) 1-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-05",
+      "opponent": "Holger Rune",
+      "score": "6-3 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-05",
+      "opponent": "Jordan Thompson",
+      "score": "6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-08-01",
+      "opponent": "Lorenzo Musetti",
+      "score": "7-5 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-31",
+      "opponent": "Alexei Popyrin",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-30",
+      "opponent": "Tomas Machac",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-28",
+      "opponent": "Jaume Munar",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-21",
+      "opponent": "Arthur Fils",
+      "score": "6-3 3-6 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-20",
+      "opponent": "Pedro Martinez",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-19",
+      "opponent": "Zhizhen Zhang",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-18",
+      "opponent": "Hugo Gaston",
+      "score": "4-6 6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-17",
+      "opponent": "Jesper De Jong",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-08",
+      "opponent": "Taylor Fritz",
+      "score": "4-6 6-7(4) 6-4 7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-06",
+      "opponent": "Cameron Norrie",
+      "score": "6-4 6-4 7-6(15)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-04",
+      "opponent": "Marcos Giron",
+      "score": "6-2 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-07-02",
+      "opponent": "Roberto Carballes Baena",
+      "score": "6-2 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-06-22",
+      "opponent": "Hubert Hurkacz",
+      "score": "7-6(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-06-21",
+      "opponent": "Arthur Fils",
+      "score": "6-7(5) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-06-19",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-4 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-06-18",
+      "opponent": "Oscar Otte",
+      "score": "6-7(5) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-27",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-3 2-6 5-7 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-27",
+      "opponent": "Casper Ruud",
+      "score": "2-6 6-2 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-27",
+      "opponent": "Alex De Minaur",
+      "score": "6-4 7-6(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-27",
+      "opponent": "Holger Rune",
+      "score": "4-6 6-1 5-7 7-6(2) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-27",
+      "opponent": "Tallon Griekspoor",
+      "score": "3-6 6-4 6-2 4-6 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-27",
+      "opponent": "David Goffin",
+      "score": "7-6(4) 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-27",
+      "opponent": "Rafael Nadal",
+      "score": "6-3 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-06",
+      "opponent": "Nicolas Jarry",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-06",
+      "opponent": "Alejandro Tabilo",
+      "score": "1-6 7-6(4) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-06",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-06",
+      "opponent": "Nuno Borges",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-06",
+      "opponent": "Luciano Darderi",
+      "score": "7-6(3) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-05-06",
+      "opponent": "Aleksandar Vukic",
+      "score": "6-0 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-04-22",
+      "opponent": "Francisco Cerundolo",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-04-22",
+      "opponent": "Denis Shapovalov",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-04-22",
+      "opponent": "Borna Coric",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-04-19",
+      "opponent": "Cristian Garin",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-04-17",
+      "opponent": "Jurij Rodionov",
+      "score": "7-6(3) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-04-08",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "7-5 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-04-08",
+      "opponent": "Sebastian Ofner",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-03-18",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-4 6-7(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-03-18",
+      "opponent": "Fabian Marozsan",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-03-18",
+      "opponent": "Karen Khachanov",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-03-18",
+      "opponent": "Christopher Eubanks",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-03-18",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-03-04",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-03-04",
+      "opponent": "Alex De Minaur",
+      "score": "5-7 6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-03-04",
+      "opponent": "Tallon Griekspoor",
+      "score": "7-6(7) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-03-04",
+      "opponent": "Christopher Oconnell",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-02-28",
+      "opponent": "Daniel Altmaier",
+      "score": "6-3 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-02-24",
+      "opponent": "Jordan Thompson",
+      "score": "7-5 4-6 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-02-23",
+      "opponent": "Thanasi Kokkinakis",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-02-22",
+      "opponent": "Yoshihito Nishioka",
+      "score": "6-3 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-01-26",
+      "opponent": "Daniil Medvedev",
+      "score": "5-7 3-6 7-6(4) 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-01-24",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-1 6-3 6-7(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-01-22",
+      "opponent": "Cameron Norrie",
+      "score": "7-5 3-6 6-3 4-6 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-01-20",
+      "opponent": "Alex Michelsen",
+      "score": "6-2 7-6(4) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-01-18",
+      "opponent": "Lukas Klein",
+      "score": "7-5 3-6 4-6 7-6(5) 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-01-16",
+      "opponent": "Dominik Koepfer",
+      "score": "4-6 6-3 7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-01-07",
+      "opponent": "Hubert Hurkacz",
+      "score": "6-7(3) 7-6(6) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-01-06",
+      "opponent": "Alex De Minaur",
+      "score": "5-7 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-01-05",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2024-01-01",
+      "opponent": "Adrian Mannarino",
+      "score": "4-6 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-12-30",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-7(5) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-11-13",
+      "opponent": "Andrey Rublev",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-11-13",
+      "opponent": "Daniil Medvedev",
+      "score": "7-6(7) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-11-13",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-7(3) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-10-30",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "7-6(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-10-30",
+      "opponent": "Ugo Humbert",
+      "score": "6-4 6-7(3) 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-10-30",
+      "opponent": "Marton Fucsovics",
+      "score": "4-6 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-10-27",
+      "opponent": "Andrey Rublev",
+      "score": "6-1 6-7(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-10-25",
+      "opponent": "Cameron Norrie",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-10-23",
+      "opponent": "Sebastian Ofner",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-10-16",
+      "opponent": "Jordan Thompson",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-10-03",
+      "opponent": "Daniil Medvedev",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-10-02",
+      "opponent": "Nicolas Jarry",
+      "score": "6-1 6-7(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-10-02",
+      "opponent": "Roman Safiullin",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-09-30",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "6-7(4) 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-09-29",
+      "opponent": "Diego Schwartzman",
+      "score": "6-7(2) 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-09-26",
+      "opponent": "Roman Safiullin",
+      "score": "6-7(2) 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-09-25",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-3 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-09-24",
+      "opponent": "Miomir Kecmanovic",
+      "score": "5-7 7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-09-23",
+      "opponent": "Pavel Kotov",
+      "score": "7-6(5) 4-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-09-07",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-3 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-09-05",
+      "opponent": "Jannik Sinner",
+      "score": "6-4 3-6 6-2 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-09-03",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-7(2) 7-6(8) 6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-08-31",
+      "opponent": "Daniel Altmaier",
+      "score": "7-6(1) 3-6 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-08-29",
+      "opponent": "Aleksandar Vukic",
+      "score": "6-4 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-08-14",
+      "opponent": "Novak Djokovic",
+      "score": "7-6(5) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-08-14",
+      "opponent": "Adrian Mannarino",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-08-14",
+      "opponent": "Daniil Medvedev",
+      "score": "6-4 5-7 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-08-14",
+      "opponent": "Yoshihito Nishioka",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-08-14",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-08-07",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-08-07",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-4 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-30",
+      "opponent": "Laslo Djere",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-29",
+      "opponent": "Arthur Fils",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-28",
+      "opponent": "Luca Van Assche",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-26",
+      "opponent": "Maximilian Marterer",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-25",
+      "opponent": "Alex Molcan",
+      "score": "6-0 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-21",
+      "opponent": "Andrey Rublev",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-20",
+      "opponent": "Thiago Monteiro",
+      "score": "6-1 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-18",
+      "opponent": "Alex Molcan",
+      "score": "6-4 3-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-08",
+      "opponent": "Matteo Berrettini",
+      "score": "6-3 7-6(4) 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-07",
+      "opponent": "Yosuke Watanuki",
+      "score": "6-4 5-7 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-07-06",
+      "opponent": "Gijs Brouwer",
+      "score": "6-4 7-6(4) 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-06-24",
+      "opponent": "Alexander Bublik",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-06-23",
+      "opponent": "Nicolas Jarry",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-06-21",
+      "opponent": "Denis Shapovalov",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-06-20",
+      "opponent": "Dominic Thiem",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-29",
+      "opponent": "Casper Ruud",
+      "score": "6-3 6-4 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-29",
+      "opponent": "Tomas Martin Etcheverry",
+      "score": "6-4 3-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-29",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-1 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-29",
+      "opponent": "Frances Tiafoe",
+      "score": "3-6 7-6(3) 6-1 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-29",
+      "opponent": "Alex Molcan",
+      "score": "6-4 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-29",
+      "opponent": "Lloyd Harris",
+      "score": "7-6(6) 7-6(0) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-26",
+      "opponent": "Nicolas Jarry",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-25",
+      "opponent": "Yibing Wu",
+      "score": "4-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-23",
+      "opponent": "Christopher Eubanks",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-08",
+      "opponent": "Daniil Medvedev",
+      "score": "6-2 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-08",
+      "opponent": "J J Wolf",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-05-08",
+      "opponent": "David Goffin",
+      "score": "5-7 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-04-24",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-04-24",
+      "opponent": "Hugo Grenier",
+      "score": "6-1 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-04-24",
+      "opponent": "Roberto Carballes Baena",
+      "score": "6-7(6) 7-5 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-04-20",
+      "opponent": "Christopher Oconnell",
+      "score": "7-6(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-04-10",
+      "opponent": "Daniil Medvedev",
+      "score": "3-6 7-5 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-04-10",
+      "opponent": "Roberto Bautista Agut",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-04-10",
+      "opponent": "Alexander Bublik",
+      "score": "3-6 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-03-20",
+      "opponent": "Taro Daniel",
+      "score": "6-0 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-03-06",
+      "opponent": "Daniil Medvedev",
+      "score": "6-7(5) 7-6(5) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-03-06",
+      "opponent": "Emil Ruusuvuori",
+      "score": "7-5 1-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-03-06",
+      "opponent": "Pedro Cachin",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-03-03",
+      "opponent": "Andrey Rublev",
+      "score": "6-3 7-6(9)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-03-02",
+      "opponent": "Lorenzo Sonego",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-03-01",
+      "opponent": "Christopher Oconnell",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-02-27",
+      "opponent": "Jiri Lehecka",
+      "score": "4-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-02-22",
+      "opponent": "Andy Murray",
+      "score": "7-6(5) 2-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-02-15",
+      "opponent": "Tallon Griekspoor",
+      "score": "4-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-02-14",
+      "opponent": "Soon Woo Kwon",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-02-03",
+      "opponent": "Stan Wawrinka",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-02-03",
+      "opponent": "Marc Andrea Huesler",
+      "score": "6-2 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-01-19",
+      "opponent": "Michael Mmoh",
+      "score": "6-7(1) 6-4 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-01-17",
+      "opponent": "Juan Pablo Varillas",
+      "score": "4-6 6-1 5-7 7-6(3) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2023-01-02",
+      "opponent": "Taylor Fritz",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-12-31",
+      "opponent": "Jiri Lehecka",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-23",
+      "opponent": "Rafael Nadal",
+      "score": "7-6(8) 6-6 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-23",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-4 6-4 4-6 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-23",
+      "opponent": "Bernabe Zapata Miralles",
+      "score": "7-6(11) 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-23",
+      "opponent": "Brandon Nakashima",
+      "score": "7-6(2) 6-3 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-23",
+      "opponent": "Sebastian Baez",
+      "score": "2-6 4-6 6-1 6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-23",
+      "opponent": "Sebastian Ofner",
+      "score": "6-2 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-09",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "4-6 6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-09",
+      "opponent": "Cristian Garin",
+      "score": "7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-09",
+      "opponent": "Alex De Minaur",
+      "score": "6-3 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-09",
+      "opponent": "Sebastian Baez",
+      "score": "7-6(6) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-02",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-02",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-4 3-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-02",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-02",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-3 1-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-05-02",
+      "opponent": "Marin Cilic",
+      "score": "4-6 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-04-27",
+      "opponent": "Holger Rune",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-04-11",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-04-11",
+      "opponent": "Jannik Sinner",
+      "score": "5-7 6-3 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-04-11",
+      "opponent": "Pablo Carreno Busta",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-04-11",
+      "opponent": "Federico Delbonis",
+      "score": "6-1 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-03-21",
+      "opponent": "Casper Ruud",
+      "score": "6-3 1-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-03-21",
+      "opponent": "Thanasi Kokkinakis",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-03-21",
+      "opponent": "Mackenzie Mcdonald",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-03-21",
+      "opponent": "Borna Coric",
+      "score": "6-4 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-03-07",
+      "opponent": "Tommy Paul",
+      "score": "6-2 4-6 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-03-04",
+      "opponent": "Thiago Seyboth Wild",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-03-04",
+      "opponent": "Thiago Monteiro",
+      "score": "6-1 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-02-24",
+      "opponent": "Peter Gojowczyk",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-02-22",
+      "opponent": "Jenson Brooksby",
+      "score": "3-6 7-6(10) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-02-06",
+      "opponent": "Alexander Bublik",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-02-05",
+      "opponent": "Mikael Ymer",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-02-04",
+      "opponent": "Adrian Mannarino",
+      "score": "6-1 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-02-03",
+      "opponent": "Mackenzie Mcdonald",
+      "score": "6-2 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-01-23",
+      "opponent": "Denis Shapovalov",
+      "score": "6-3 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-01-21",
+      "opponent": "Radu Albot",
+      "score": "6-3 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-01-19",
+      "opponent": "John Millman",
+      "score": "6-4 6-4 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-01-17",
+      "opponent": "Daniel Altmaier",
+      "score": "7-6(3) 6-1 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-01-06",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-4 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-01-04",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2022-01-02",
+      "opponent": "Cameron Norrie",
+      "score": "7-6(2) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-11-15",
+      "opponent": "Hubert Hurkacz",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-11-15",
+      "opponent": "Matteo Berrettini",
+      "score": "7-6(7) 1-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-11-15",
+      "opponent": "Daniil Medvedev",
+      "score": "6-3 6-7(3) 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-11-15",
+      "opponent": "Daniil Medvedev",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-11-15",
+      "opponent": "Novak Djokovic",
+      "score": "7-6(4) 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-11-01",
+      "opponent": "Daniil Medvedev",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-11-01",
+      "opponent": "Casper Ruud",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-11-01",
+      "opponent": "Grigor Dimitrov",
+      "score": "7-6(4) 6-7(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-11-01",
+      "opponent": "Dusan Lajovic",
+      "score": "6-3 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-10-31",
+      "opponent": "Frances Tiafoe",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-10-30",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-10-29",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-4 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-10-28",
+      "opponent": "Alex De Minaur",
+      "score": "6-2 3-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-10-26",
+      "opponent": "Filip Krajinovic",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-10-04",
+      "opponent": "Taylor Fritz",
+      "score": "4-6 6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-10-04",
+      "opponent": "Gael Monfils",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-10-04",
+      "opponent": "Andy Murray",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-10-04",
+      "opponent": "Jenson Brooksby",
+      "score": "6-4 3-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-09-24",
+      "opponent": "John Isner",
+      "score": "7-6(5) 6-7(6) [10-5]",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-09-11",
+      "opponent": "Novak Djokovic",
+      "score": "4-6 6-2 6-4 4-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-09-08",
+      "opponent": "Lloyd Harris",
+      "score": "7-6(6) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-09-06",
+      "opponent": "Jannik Sinner",
+      "score": "6-4 6-4 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-09-05",
+      "opponent": "Jack Sock",
+      "score": "3-6 6-2 6-3 2-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-09-02",
+      "opponent": "Albert Ramos",
+      "score": "6-1 6-0 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-08-31",
+      "opponent": "Sam Querrey",
+      "score": "6-4 7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-08-16",
+      "opponent": "Andrey Rublev",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-08-16",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-4 3-6 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-08-16",
+      "opponent": "Casper Ruud",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-08-16",
+      "opponent": "Guido Pella",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-08-16",
+      "opponent": "Lloyd Harris",
+      "score": "7-6(3) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-08-01",
+      "opponent": "Karen Khachanov",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-07-30",
+      "opponent": "Novak Djokovic",
+      "score": "1-6 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-07-29",
+      "opponent": "Jeremy Chardy",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-07-28",
+      "opponent": "Nikoloz Basilashvili",
+      "score": "6-4 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-07-26",
+      "opponent": "Daniel Elahi Galan",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-07-25",
+      "opponent": "Yen Hsun Lu",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-07-05",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-4 7-6(6) 3-6 3-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-07-03",
+      "opponent": "Taylor Fritz",
+      "score": "6-7(3) 6-4 6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-07-01",
+      "opponent": "Tennys Sandgren",
+      "score": "7-5 6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-06-29",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-3 6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-06-17",
+      "opponent": "Ugo Humbert",
+      "score": "7-6(4) 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-06-15",
+      "opponent": "Dominik Koepfer",
+      "score": "6-4 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-31",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-3 6-3 4-6 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-31",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "6-4 6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-31",
+      "opponent": "Kei Nishikori",
+      "score": "6-4 6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-31",
+      "opponent": "Laslo Djere",
+      "score": "6-2 7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-31",
+      "opponent": "Roman Safiullin",
+      "score": "7-6(4) 6-3 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-31",
+      "opponent": "Oscar Otte",
+      "score": "3-6 3-6 6-2 6-2 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-10",
+      "opponent": "Rafael Nadal",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-10",
+      "opponent": "Kei Nishikori",
+      "score": "4-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-10",
+      "opponent": "Hugo Dellien",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-03",
+      "opponent": "Matteo Berrettini",
+      "score": "6-7(8) 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-03",
+      "opponent": "Dominic Thiem",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-03",
+      "opponent": "Rafael Nadal",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-03",
+      "opponent": "Daniel Evans",
+      "score": "6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-05-03",
+      "opponent": "Kei Nishikori",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-04-30",
+      "opponent": "Ilya Ivashka",
+      "score": "6-7(5) 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-04-28",
+      "opponent": "Ricardas Berankis",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-04-12",
+      "opponent": "David Goffin",
+      "score": "6-4 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-04-12",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-03-22",
+      "opponent": "Emil Ruusuvuori",
+      "score": "1-6 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-03-21",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-4 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-03-20",
+      "opponent": "Dominik Koepfer",
+      "score": "6-4 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-03-19",
+      "opponent": "Casper Ruud",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-03-18",
+      "opponent": "Laslo Djere",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-03-16",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-03-03",
+      "opponent": "Alexander Bublik",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-02-16",
+      "opponent": "Novak Djokovic",
+      "score": "6-7(6) 6-2 6-4 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-02-14",
+      "opponent": "Dusan Lajovic",
+      "score": "6-4 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-02-12",
+      "opponent": "Adrian Mannarino",
+      "score": "6-3 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-02-10",
+      "opponent": "Maxime Cressy",
+      "score": "7-5 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-02-08",
+      "opponent": "Marcos Giron",
+      "score": "6-7(8) 7-6(5) 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-02-06",
+      "opponent": "Daniil Medvedev",
+      "score": "3-6 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-02-05",
+      "opponent": "Novak Djokovic",
+      "score": "6-7(3) 6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2021-02-03",
+      "opponent": "Denis Shapovalov",
+      "score": "6-7(5) 6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-11-16",
+      "opponent": "Diego Schwartzman",
+      "score": "6-3 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-11-16",
+      "opponent": "Daniil Medvedev",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-11-16",
+      "opponent": "Novak Djokovic",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-11-02",
+      "opponent": "Daniil Medvedev",
+      "score": "5-7 6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-11-02",
+      "opponent": "Rafael Nadal",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-11-02",
+      "opponent": "Stan Wawrinka",
+      "score": "6-3 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-11-02",
+      "opponent": "Adrian Mannarino",
+      "score": "7-6(11) 6-7(7) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-11-02",
+      "opponent": "Miomir Kecmanovic",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-10-25",
+      "opponent": "Diego Schwartzman",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-10-24",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-10-23",
+      "opponent": "Adrian Mannarino",
+      "score": "6-4 6-7(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-10-21",
+      "opponent": "John Millman",
+      "score": "6-0 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-10-18",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-10-17",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "7-5 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-10-16",
+      "opponent": "Lloyd Harris",
+      "score": "6-4 3-6 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-10-15",
+      "opponent": "Fernando Verdasco",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-09-28",
+      "opponent": "Jannik Sinner",
+      "score": "6-3 6-3 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-09-28",
+      "opponent": "Marco Cecchinato",
+      "score": "6-1 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-09-28",
+      "opponent": "Pierre Hugues Herbert",
+      "score": "2-6 6-4 7-6(5) 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-09-28",
+      "opponent": "Dennis Novak",
+      "score": "7-5 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-09-13",
+      "opponent": "Dominic Thiem",
+      "score": "2-6 4-6 6-4 6-3 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-09-11",
+      "opponent": "Pablo Carreno Busta",
+      "score": "3-6 2-6 6-3 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-09-08",
+      "opponent": "Borna Coric",
+      "score": "1-6 7-6(5) 7-6(1) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-09-06",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "6-2 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-09-04",
+      "opponent": "Adrian Mannarino",
+      "score": "6-7(4) 6-4 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-09-02",
+      "opponent": "Brandon Nakashima",
+      "score": "7-5 6-7(8) 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-08-31",
+      "opponent": "Kevin Anderson",
+      "score": "7-6(2) 5-7 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-08-24",
+      "opponent": "Andy Murray",
+      "score": "6-3 3-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-02-27",
+      "opponent": "Tommy Paul",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-02-26",
+      "opponent": "Jason Jung",
+      "score": "7-6(6) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-01-31",
+      "opponent": "Dominic Thiem",
+      "score": "3-6 6-4 7-6(3) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-01-29",
+      "opponent": "Stan Wawrinka",
+      "score": "1-6 6-3 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-01-27",
+      "opponent": "Andrey Rublev",
+      "score": "6-4 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-01-25",
+      "opponent": "Fernando Verdasco",
+      "score": "6-2 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-01-23",
+      "opponent": "Egor Gerasimov",
+      "score": "7-6(5) 6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-01-21",
+      "opponent": "Marco Cecchinato",
+      "score": "6-4 7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-01-07",
+      "opponent": "Denis Shapovalov",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-01-05",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2020-01-03",
+      "opponent": "Alex De Minaur",
+      "score": "4-6 7-6(3) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-11-11",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-11-11",
+      "opponent": "Daniil Medvedev",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-11-11",
+      "opponent": "Rafael Nadal",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-11-11",
+      "opponent": "Dominic Thiem",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-10-28",
+      "opponent": "Denis Shapovalov",
+      "score": "6-2 5-7 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-10-28",
+      "opponent": "Fernando Verdasco",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-10-22",
+      "opponent": "Taylor Fritz",
+      "score": "7-6(7) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-10-07",
+      "opponent": "Daniil Medvedev",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-10-07",
+      "opponent": "Matteo Berrettini",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-10-07",
+      "opponent": "Roger Federer",
+      "score": "6-3 6-7(7) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-10-07",
+      "opponent": "Andrey Rublev",
+      "score": "6-0 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-10-07",
+      "opponent": "Jeremy Chardy",
+      "score": "7-6(13) 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-10-05",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "7-6(6) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "zverev-alexander",
+      "date": "2019-10-04",
+      "opponent": "Sam Querrey",
+      "score": "7-6(3) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    }
+  ]
+}

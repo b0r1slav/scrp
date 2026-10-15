@@ -1,6 +1,6 @@
 # Baseline — ATP parity tracker
 
-A static GitHub Pages dashboard for even/odd game totals across each player's latest 20 completed ATP singles matches. The board reads `data/results.json`; GitHub Actions refreshes that file from Cito without exposing the API key to the browser.
+A static GitHub Pages dashboard for even/odd game totals across each player's latest 20 completed ATP singles matches. The page opens with demo data; selected players load their own published JSON file on demand. On localhost only, you can enter a Cito API key to request selected players directly. The key stays in tab memory and is not saved. The deployed site uses published per-player files, so it never asks visitors for or sends a Cito key.
 
 ## Local test
 
@@ -20,7 +20,13 @@ Open `http://localhost:8000`. Keep the key in your shell environment; never put 
 2. In **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**.
 3. Push this workflow and site to `main`. The first push publishes the site using demo rows; then go to **Actions → Publish ATP parity board → Run workflow** to fetch real results and publish them.
 
-The workflow refreshes results weekly on Monday and also supports manual runs. It resolves each player, fetches each ATP singles match log, stores the latest source records in `data/results.json`, and deploys the refreshed page. It needs repository **Actions → General → Workflow permissions** set to allow read and write permissions so it can commit the refreshed JSON file. Each refresh uses about 36 API requests (one player search and one match-log request for each of the 18 players).
+The page requests `data/players/<slug>.json` only when you choose a player and click **Fetch selected**. If a selected file has not been generated yet, publish it by passing the chosen player slugs to the fetch script. Each player uses two Cito requests (one player search and one match-log request), keeping a five-player refresh to 10 requests:
+
+```sh
+node scripts/fetch-results.mjs sinner-jannik alcaraz-garfia-carlos shelton-ben
+```
+
+With no slugs, the script refreshes all tracked players. It writes per-player files under `data/players/` and maintains `data/results.json` as a combined compatibility file. Deploy the generated data files alongside the page. The scheduled workflow can keep its existing full refresh, or use the selected-slug form when only a subset is needed.
 
 ## Data and calculation rules
 

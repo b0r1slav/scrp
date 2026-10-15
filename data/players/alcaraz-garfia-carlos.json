@@ -1,0 +1,4300 @@
+{
+  "source": "Cito API",
+  "player": "alcaraz-garfia-carlos",
+  "updated_at": "2026-10-15T14:56:39.336Z",
+  "matches": [
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-10-12",
+      "opponent": "Zizou Bergs",
+      "score": "7-5 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-10-10",
+      "opponent": "Juan Manuel Cerundolo",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-10-06",
+      "opponent": "Jiri Lehecka",
+      "score": "7-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-10-05",
+      "opponent": "Jaume Munar",
+      "score": "5-7 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-10-04",
+      "opponent": "Denis Shapovalov",
+      "score": "7-6 2-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-10-03",
+      "opponent": "Matteo Arnaldi",
+      "score": "7-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-10-01",
+      "opponent": "Alex Michelsen",
+      "score": "7-6 4-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-09-26",
+      "opponent": "Taylor Fritz",
+      "score": "6-3 4-6 1-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-09-09",
+      "opponent": "Ben Shelton",
+      "score": "6-7 6-1 6-3 1-6 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-09-06",
+      "opponent": "Tommy Paul",
+      "score": "6-4 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-09-04",
+      "opponent": "Yibing Wu",
+      "score": "6-3 6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-09-03",
+      "opponent": "Jaime Faria",
+      "score": "4-6 6-0 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-08-31",
+      "opponent": "Roman Safiullin",
+      "score": "6-4 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-04-16",
+      "opponent": "Tomas Machac",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-04-14",
+      "opponent": "Otto Virtanen",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-04-05",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-04-05",
+      "opponent": "Valentin Vacherot",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-04-05",
+      "opponent": "Alexander Bublik",
+      "score": "6-3 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-04-05",
+      "opponent": "Tomas Martin Etcheverry",
+      "score": "6-1 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-04-05",
+      "opponent": "Sebastian Baez",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-03-18",
+      "opponent": "Sebastian Korda",
+      "score": "6-3 5-7 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-03-18",
+      "opponent": "Joao Fonseca",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-03-04",
+      "opponent": "Daniil Medvedev",
+      "score": "6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-03-04",
+      "opponent": "Cameron Norrie",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-03-04",
+      "opponent": "Casper Ruud",
+      "score": "6-1 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-03-04",
+      "opponent": "Arthur Rinderknech",
+      "score": "6-7(6) 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-03-04",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-02-21",
+      "opponent": "Arthur Fils",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-02-20",
+      "opponent": "Andrey Rublev",
+      "score": "7-6(3) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-02-19",
+      "opponent": "Karen Khachanov",
+      "score": "6-7(3) 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-02-18",
+      "opponent": "Valentin Royer",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-02-17",
+      "opponent": "Arthur Rinderknech",
+      "score": "6-4 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-02-01",
+      "opponent": "Novak Djokovic",
+      "score": "2-6 6-2 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-01-30",
+      "opponent": "Alexander Zverev",
+      "score": "6-4 7-6(5) 6-7(3) 6-7(4) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-01-27",
+      "opponent": "Alex De Minaur",
+      "score": "7-5 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-01-25",
+      "opponent": "Tommy Paul",
+      "score": "7-6(6) 6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-01-23",
+      "opponent": "Corentin Moutet",
+      "score": "6-2 6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-01-21",
+      "opponent": "Yannick Hanfmann",
+      "score": "7-6(4) 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2026-01-18",
+      "opponent": "Adam Walton",
+      "score": "6-3 7-6(2) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-11-09",
+      "opponent": "Alex De Minaur",
+      "score": "7-6(5) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-11-09",
+      "opponent": "Taylor Fritz",
+      "score": "6-7(2) 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-11-09",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-11-09",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(4) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-11-09",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-10-27",
+      "opponent": "Cameron Norrie",
+      "score": "4-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-09-30",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-09-29",
+      "opponent": "Casper Ruud",
+      "score": "3-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-09-28",
+      "opponent": "Brandon Nakashima",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-09-27",
+      "opponent": "Zizou Bergs",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-09-25",
+      "opponent": "Sebastian Baez",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-09-19",
+      "opponent": "Francisco Cerundolo",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-09-19",
+      "opponent": "Taylor Fritz",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-09-07",
+      "opponent": "Jannik Sinner",
+      "score": "6-2 3-6 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-09-05",
+      "opponent": "Novak Djokovic",
+      "score": "6-4 7-6(4) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-09-02",
+      "opponent": "Jiri Lehecka",
+      "score": "6-4 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-08-31",
+      "opponent": "Arthur Rinderknech",
+      "score": "7-6(3) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-08-29",
+      "opponent": "Luciano Darderi",
+      "score": "6-2 6-4 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-08-28",
+      "opponent": "Mattia Bellucci",
+      "score": "6-1 6-0 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-08-26",
+      "opponent": "Reilly Opelka",
+      "score": "6-4 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-08-18",
+      "opponent": "Jannik Sinner",
+      "score": "5-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-08-17",
+      "opponent": "Alexander Zverev",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-08-15",
+      "opponent": "Andrey Rublev",
+      "score": "6-3 4-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-08-14",
+      "opponent": "Luca Nardi",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-08-12",
+      "opponent": "Hamad Medjedovic",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-08-10",
+      "opponent": "Damir Dzumhur",
+      "score": "6-1 2-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-07-13",
+      "opponent": "Jannik Sinner",
+      "score": "4-6 6-4 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-07-11",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 5-7 6-3 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-07-08",
+      "opponent": "Cameron Norrie",
+      "score": "6-2 6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-07-06",
+      "opponent": "Andrey Rublev",
+      "score": "6-7(5) 6-3 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-07-04",
+      "opponent": "Jan Lennard Struff",
+      "score": "6-1 3-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-07-02",
+      "opponent": "Oliver Tarvet",
+      "score": "6-1 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-06-30",
+      "opponent": "Fabio Fognini",
+      "score": "7-5 6-7(5) 7-5 2-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-06-22",
+      "opponent": "Jiri Lehecka",
+      "score": "7-5 6-7(5) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-06-21",
+      "opponent": "Roberto Bautista Agut",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-06-20",
+      "opponent": "Arthur Rinderknech",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-06-19",
+      "opponent": "Jaume Munar",
+      "score": "6-4 6-7(7) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-06-17",
+      "opponent": "Adam Walton",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-26",
+      "opponent": "Jannik Sinner",
+      "score": "4-6 6-7(4) 6-4 7-6(3) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-26",
+      "opponent": "Lorenzo Musetti",
+      "score": "4-6 7-6(3) 6-0 2-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-26",
+      "opponent": "Tommy Paul",
+      "score": "6-0 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-26",
+      "opponent": "Ben Shelton",
+      "score": "7-6(8) 6-3 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-26",
+      "opponent": "Damir Dzumhur",
+      "score": "6-1 6-3 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-26",
+      "opponent": "Fabian Marozsan",
+      "score": "6-1 4-6 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-26",
+      "opponent": "Giulio Zeppieri",
+      "score": "6-3 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-07",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(5) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-07",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-07",
+      "opponent": "Jack Draper",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-07",
+      "opponent": "Karen Khachanov",
+      "score": "6-3 3-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-07",
+      "opponent": "Laslo Djere",
+      "score": "7-6(2) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-05-07",
+      "opponent": "Dusan Lajovic",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-04-20",
+      "opponent": "Holger Rune",
+      "score": "7-6(6) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-04-19",
+      "opponent": "Arthur Fils",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-04-18",
+      "opponent": "Alex De Minaur",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-04-17",
+      "opponent": "Laslo Djere",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-04-15",
+      "opponent": "Ethan Quinn",
+      "score": "6-2 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-04-07",
+      "opponent": "Lorenzo Musetti",
+      "score": "3-6 6-1 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-04-07",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "7-6(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-04-07",
+      "opponent": "Arthur Fils",
+      "score": "4-6 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-04-07",
+      "opponent": "Daniel Altmaier",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-04-07",
+      "opponent": "Francisco Cerundolo",
+      "score": "3-6 6-0 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-03-19",
+      "opponent": "David Goffin",
+      "score": "5-7 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-03-05",
+      "opponent": "Jack Draper",
+      "score": "6-1 0-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-03-05",
+      "opponent": "Francisco Cerundolo",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-03-05",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-03-05",
+      "opponent": "Denis Shapovalov",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-03-05",
+      "opponent": "Quentin Halys",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-02-20",
+      "opponent": "Jiri Lehecka",
+      "score": "6-3 3-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-02-19",
+      "opponent": "Luca Nardi",
+      "score": "6-1 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-02-17",
+      "opponent": "Marin Cilic",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-02-09",
+      "opponent": "Alex De Minaur",
+      "score": "6-4 3-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-02-08",
+      "opponent": "Hubert Hurkacz",
+      "score": "6-4 6-7(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-02-07",
+      "opponent": "Pedro Martinez",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-02-06",
+      "opponent": "Andrea Vavassori",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-02-04",
+      "opponent": "Botic Van De Zandschulp",
+      "score": "7-6(3) 3-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-01-21",
+      "opponent": "Novak Djokovic",
+      "score": "4-6 6-4 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-01-19",
+      "opponent": "Jack Draper",
+      "score": "7-5 6-1 0-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-01-17",
+      "opponent": "Nuno Borges",
+      "score": "6-2 6-4 6-7(3) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-01-15",
+      "opponent": "Yoshihito Nishioka",
+      "score": "6-0 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2025-01-13",
+      "opponent": "Alexander Shevchenko",
+      "score": "6-1 7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-11-19",
+      "opponent": "Tallon Griekspoor",
+      "score": "7-6(0) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-11-11",
+      "opponent": "Andrey Rublev",
+      "score": "6-3 7-6(8)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-11-11",
+      "opponent": "Casper Ruud",
+      "score": "6-1 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-11-11",
+      "opponent": "Alexander Zverev",
+      "score": "7-6(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-10-28",
+      "opponent": "Ugo Humbert",
+      "score": "6-1 3-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-10-28",
+      "opponent": "Nicolas Jarry",
+      "score": "7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-10-02",
+      "opponent": "Jannik Sinner",
+      "score": "6-7(6) 6-4 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-10-02",
+      "opponent": "Tomas Machac",
+      "score": "7-6(5) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-10-02",
+      "opponent": "Gael Monfils",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-10-02",
+      "opponent": "Yibing Wu",
+      "score": "7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-10-02",
+      "opponent": "Juncheng Shang",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-10-01",
+      "opponent": "Daniil Medvedev",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-09-30",
+      "opponent": "Karen Khachanov",
+      "score": "7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-09-29",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-09-27",
+      "opponent": "Giovanni Mpetshi Perricard",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-09-20",
+      "opponent": "Ben Shelton",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-09-20",
+      "opponent": "Taylor Fritz",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-09-13",
+      "opponent": "Ugo Humbert",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-09-11",
+      "opponent": "Tomas Machac",
+      "score": "6-7(3) 6-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-08-30",
+      "opponent": "Botic Van De Zandschulp",
+      "score": "6-1 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-08-28",
+      "opponent": "Li Tu",
+      "score": "6-2 4-6 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-08-12",
+      "opponent": "Gael Monfils",
+      "score": "4-6 7-6(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-08-04",
+      "opponent": "Novak Djokovic",
+      "score": "7-6(3) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-08-02",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-08-01",
+      "opponent": "Tommy Paul",
+      "score": "6-3 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-07-31",
+      "opponent": "Roman Safiullin",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-07-29",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-1 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-07-27",
+      "opponent": "Hady Habib",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-07-14",
+      "opponent": "Novak Djokovic",
+      "score": "6-2 6-2 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-07-12",
+      "opponent": "Daniil Medvedev",
+      "score": "6-7(1) 6-3 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-07-09",
+      "opponent": "Tommy Paul",
+      "score": "5-7 6-4 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-07-07",
+      "opponent": "Ugo Humbert",
+      "score": "6-3 6-4 1-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-07-05",
+      "opponent": "Frances Tiafoe",
+      "score": "5-7 6-2 4-6 7-6(2) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-07-03",
+      "opponent": "Aleksandar Vukic",
+      "score": "7-6(5) 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-07-01",
+      "opponent": "Mark Lajal",
+      "score": "7-6(3) 7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-06-20",
+      "opponent": "Jack Draper",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-06-18",
+      "opponent": "Francisco Cerundolo",
+      "score": "6-1 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-05-27",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 2-6 5-7 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-05-27",
+      "opponent": "Jannik Sinner",
+      "score": "2-6 6-3 3-6 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-05-27",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-3 7-6(3) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-05-27",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-3 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-05-27",
+      "opponent": "Sebastian Korda",
+      "score": "6-4 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-05-27",
+      "opponent": "Jesper De Jong",
+      "score": "6-3 6-4 2-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-05-27",
+      "opponent": "J J Wolf",
+      "score": "6-1 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-04-22",
+      "opponent": "Andrey Rublev",
+      "score": "4-6 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-04-22",
+      "opponent": "Jan Lennard Struff",
+      "score": "6-3 6-7(5) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-04-22",
+      "opponent": "Thiago Seyboth Wild",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-04-22",
+      "opponent": "Alexander Shevchenko",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-03-18",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-03-18",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-03-18",
+      "opponent": "Gael Monfils",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-03-18",
+      "opponent": "Roberto Carballes Baena",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-03-04",
+      "opponent": "Daniil Medvedev",
+      "score": "7-6(5) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-03-04",
+      "opponent": "Jannik Sinner",
+      "score": "1-6 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-03-04",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-03-04",
+      "opponent": "Fabian Marozsan",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-03-04",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-03-04",
+      "opponent": "Matteo Arnaldi",
+      "score": "6-7(5) 6-0 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-02-21",
+      "opponent": "Thiago Monteiro",
+      "score": "1-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-02-17",
+      "opponent": "Nicolas Jarry",
+      "score": "7-6(2) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-02-16",
+      "opponent": "Andrea Vavassori",
+      "score": "7-6(1) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-02-15",
+      "opponent": "Camilo Ugo Carabelli",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-01-24",
+      "opponent": "Alexander Zverev",
+      "score": "6-1 6-3 6-7(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-01-22",
+      "opponent": "Miomir Kecmanovic",
+      "score": "6-4 6-4 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-01-20",
+      "opponent": "Juncheng Shang",
+      "score": "6-1 6-1 1-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-01-18",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-4 6-7(3) 6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2024-01-16",
+      "opponent": "Richard Gasquet",
+      "score": "7-6(5) 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-11-13",
+      "opponent": "Alexander Zverev",
+      "score": "6-7(3) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-11-13",
+      "opponent": "Andrey Rublev",
+      "score": "7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-11-13",
+      "opponent": "Daniil Medvedev",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-11-13",
+      "opponent": "Novak Djokovic",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-10-30",
+      "opponent": "Roman Safiullin",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-10-03",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(4) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-10-02",
+      "opponent": "Casper Ruud",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-10-02",
+      "opponent": "Grigor Dimitrov",
+      "score": "5-7 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-10-02",
+      "opponent": "Daniel Evans",
+      "score": "7-6(1) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-10-02",
+      "opponent": "Gregoire Barrere",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-10-01",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-09-29",
+      "opponent": "Yannick Hanfmann",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-09-09",
+      "opponent": "Daniil Medvedev",
+      "score": "7-6(3) 6-1 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-09-07",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-09-04",
+      "opponent": "Matteo Arnaldi",
+      "score": "6-3 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-09-02",
+      "opponent": "Daniel Evans",
+      "score": "6-2 6-3 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-09-01",
+      "opponent": "Lloyd Harris",
+      "score": "6-3 6-1 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-08-30",
+      "opponent": "Dominik Koepfer",
+      "score": "6-2 3-2 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-08-14",
+      "opponent": "Novak Djokovic",
+      "score": "5-7 7-6(7) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-08-14",
+      "opponent": "Hubert Hurkacz",
+      "score": "2-6 7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-08-14",
+      "opponent": "Max Purcell",
+      "score": "4-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-08-14",
+      "opponent": "Tommy Paul",
+      "score": "7-6(6) 6-7(0) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-08-14",
+      "opponent": "Jordan Thompson",
+      "score": "7-5 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-08-07",
+      "opponent": "Tommy Paul",
+      "score": "6-3 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-08-07",
+      "opponent": "Hubert Hurkacz",
+      "score": "3-6 7-6(2) 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-08-07",
+      "opponent": "Ben Shelton",
+      "score": "6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-07-16",
+      "opponent": "Novak Djokovic",
+      "score": "1-6 7-6(6) 6-1 3-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-07-14",
+      "opponent": "Daniil Medvedev",
+      "score": "6-3 6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-07-12",
+      "opponent": "Holger Rune",
+      "score": "7-6(3) 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-07-10",
+      "opponent": "Matteo Berrettini",
+      "score": "3-6 6-3 6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-07-08",
+      "opponent": "Nicolas Jarry",
+      "score": "6-3 6-7(6) 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-07-07",
+      "opponent": "Alexandre Muller",
+      "score": "6-4 7-6(2) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-07-04",
+      "opponent": "Jeremy Chardy",
+      "score": "6-0 6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-06-25",
+      "opponent": "Alex De Minaur",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-06-24",
+      "opponent": "Sebastian Korda",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-06-23",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-06-22",
+      "opponent": "Jiri Lehecka",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-06-20",
+      "opponent": "Arthur Rinderknech",
+      "score": "4-6 7-5 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-05-29",
+      "opponent": "Novak Djokovic",
+      "score": "6-3 5-7 6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-05-29",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-2 6-1 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-05-29",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-3 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-05-29",
+      "opponent": "Denis Shapovalov",
+      "score": "6-1 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-05-29",
+      "opponent": "Taro Daniel",
+      "score": "6-1 3-6 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-05-29",
+      "opponent": "Flavio Cobolli",
+      "score": "6-0 6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-05-08",
+      "opponent": "Fabian Marozsan",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-05-08",
+      "opponent": "Albert Ramos",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-24",
+      "opponent": "Jan Lennard Struff",
+      "score": "6-4 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-24",
+      "opponent": "Borna Coric",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-24",
+      "opponent": "Karen Khachanov",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-24",
+      "opponent": "Alexander Zverev",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-24",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-24",
+      "opponent": "Emil Ruusuvuori",
+      "score": "2-6 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-23",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-22",
+      "opponent": "Daniel Evans",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-21",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "7-6(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-20",
+      "opponent": "Roberto Bautista Agut",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-04-18",
+      "opponent": "Nuno Borges",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-20",
+      "opponent": "Jannik Sinner",
+      "score": "6-7(4) 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-20",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-20",
+      "opponent": "Tommy Paul",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-20",
+      "opponent": "Dusan Lajovic",
+      "score": "6-0 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-20",
+      "opponent": "Facundo Bagnis",
+      "score": "6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-06",
+      "opponent": "Daniil Medvedev",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-06",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-06",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-06",
+      "opponent": "Jack Draper",
+      "score": "6-2 2-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-06",
+      "opponent": "Tallon Griekspoor",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-03-06",
+      "opponent": "Thanasi Kokkinakis",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-02-26",
+      "opponent": "Cameron Norrie",
+      "score": "5-7 6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-02-26",
+      "opponent": "Nicolas Jarry",
+      "score": "6-7(2) 7-5 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-02-24",
+      "opponent": "Dusan Lajovic",
+      "score": "6-4 7-6(0)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-02-23",
+      "opponent": "Fabio Fognini",
+      "score": "6-7(5) 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-02-21",
+      "opponent": "Mateus Alves",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-02-19",
+      "opponent": "Cameron Norrie",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-02-18",
+      "opponent": "Bernabe Zapata Miralles",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-02-18",
+      "opponent": "Dusan Lajovic",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2023-02-16",
+      "opponent": "Laslo Djere",
+      "score": "6-2 4-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-10-31",
+      "opponent": "Holger Rune",
+      "score": "6-3 6-6 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-10-31",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-10-31",
+      "opponent": "Yoshihito Nishioka",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-10-29",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-10-28",
+      "opponent": "Pablo Carreno Busta",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-10-26",
+      "opponent": "Botic Van De Zandschulp",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-10-24",
+      "opponent": "Jack Draper",
+      "score": "3-6 6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-10-04",
+      "opponent": "David Goffin",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-09-18",
+      "opponent": "Soon Woo Kwon",
+      "score": "6-4 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-09-16",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-7(3) 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-09-11",
+      "opponent": "Casper Ruud",
+      "score": "6-4 2-6 7-6(1) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-09-10",
+      "opponent": "Frances Tiafoe",
+      "score": "6-7(6) 6-3 6-1 6-7(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-09-08",
+      "opponent": "Jannik Sinner",
+      "score": "6-3 6-7(7) 6-7(0) 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-09-06",
+      "opponent": "Marin Cilic",
+      "score": "6-4 3-6 6-4 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-09-03",
+      "opponent": "Jenson Brooksby",
+      "score": "6-3 6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-09-01",
+      "opponent": "Federico Coria",
+      "score": "6-2 6-1 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-08-30",
+      "opponent": "Sebastian Baez",
+      "score": "7-5 7-5 2-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-08-15",
+      "opponent": "Cameron Norrie",
+      "score": "7-6(4) 6-7(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-08-15",
+      "opponent": "Marin Cilic",
+      "score": "7-6(4) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-08-15",
+      "opponent": "Mackenzie Mcdonald",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-08-08",
+      "opponent": "Tommy Paul",
+      "score": "6-7(4) 7-6(7) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-31",
+      "opponent": "Jannik Sinner",
+      "score": "6-7(5) 6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-30",
+      "opponent": "Giulio Zeppieri",
+      "score": "7-5 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-29",
+      "opponent": "Facundo Bagnis",
+      "score": "6-0 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-28",
+      "opponent": "Norbert Gombos",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-24",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-4 6-7(6) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-23",
+      "opponent": "Alex Molcan",
+      "score": "7-6(2) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-22",
+      "opponent": "Karen Khachanov",
+      "score": "6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-21",
+      "opponent": "Filip Krajinovic",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-19",
+      "opponent": "Nicola Kuhn",
+      "score": "3-6 6-1 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-03",
+      "opponent": "Jannik Sinner",
+      "score": "6-1 6-4 6-7(8) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-07-01",
+      "opponent": "Oscar Otte",
+      "score": "6-3 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-06-29",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-4 7-6(0) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-06-27",
+      "opponent": "Jan Lennard Struff",
+      "score": "4-6 7-5 4-6 7-6(3) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-05-23",
+      "opponent": "Alexander Zverev",
+      "score": "6-4 6-4 4-6 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-05-23",
+      "opponent": "Karen Khachanov",
+      "score": "6-1 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-05-23",
+      "opponent": "Sebastian Korda",
+      "score": "6-4 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-05-23",
+      "opponent": "Albert Ramos",
+      "score": "6-1 6-7(7) 5-7 7-6(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-05-23",
+      "opponent": "Juan Ignacio Londero",
+      "score": "6-4 6-2 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-05-02",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-05-02",
+      "opponent": "Novak Djokovic",
+      "score": "6-7(5) 7-5 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-05-02",
+      "opponent": "Rafael Nadal",
+      "score": "6-2 1-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-05-02",
+      "opponent": "Cameron Norrie",
+      "score": "6-4 6-7(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-05-02",
+      "opponent": "Nikoloz Basilashvili",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-04-24",
+      "opponent": "Pablo Carreno Busta",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-04-24",
+      "opponent": "Alex De Minaur",
+      "score": "6-7(4) 7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-04-22",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-4 5-7 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-04-22",
+      "opponent": "Jaume Munar",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-04-20",
+      "opponent": "Soon Woo Kwon",
+      "score": "6-1 2-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-04-11",
+      "opponent": "Sebastian Korda",
+      "score": "7-6(2) 6-7(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-21",
+      "opponent": "Casper Ruud",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-21",
+      "opponent": "Hubert Hurkacz",
+      "score": "7-6(5) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-21",
+      "opponent": "Miomir Kecmanovic",
+      "score": "6-7(5) 6-3 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-21",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-21",
+      "opponent": "Marin Cilic",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-21",
+      "opponent": "Marton Fucsovics",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-07",
+      "opponent": "Rafael Nadal",
+      "score": "6-4 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-07",
+      "opponent": "Cameron Norrie",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-07",
+      "opponent": "Gael Monfils",
+      "score": "7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-07",
+      "opponent": "Roberto Bautista Agut",
+      "score": "6-2 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-07",
+      "opponent": "Mackenzie Mcdonald",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-03-04",
+      "opponent": "Marius Copil",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-02-20",
+      "opponent": "Diego Schwartzman",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-02-20",
+      "opponent": "Fabio Fognini",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-02-19",
+      "opponent": "Matteo Berrettini",
+      "score": "6-2 2-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-02-18",
+      "opponent": "Federico Delbonis",
+      "score": "6-4 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-02-14",
+      "opponent": "Jaume Munar",
+      "score": "2-6 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-01-21",
+      "opponent": "Matteo Berrettini",
+      "score": "6-2 7-6(3) 4-6 2-6 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-01-19",
+      "opponent": "Dusan Lajovic",
+      "score": "6-2 6-1 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2022-01-17",
+      "opponent": "Alejandro Tabilo",
+      "score": "6-2 6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-11-08",
+      "opponent": "Holger Rune",
+      "score": "4-3(6) 4-2 4-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-11-08",
+      "opponent": "Juan Manuel Cerundolo",
+      "score": "4-0 4-1 2-4 4-3(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-11-08",
+      "opponent": "Brandon Nakashima",
+      "score": "4-3(4) 4-1 4-3(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-11-08",
+      "opponent": "Sebastian Korda",
+      "score": "4-3(5) 4-2 4-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-11-08",
+      "opponent": "Sebastian Baez",
+      "score": "4-2 4-1 4-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-11-01",
+      "opponent": "Hugo Gaston",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-11-01",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(1) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-11-01",
+      "opponent": "Pierre Hugues Herbert",
+      "score": "6-7(4) 7-6(2) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-10-30",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-10-29",
+      "opponent": "Matteo Berrettini",
+      "score": "6-1 6-7(2) 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-10-27",
+      "opponent": "Andy Murray",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-10-25",
+      "opponent": "Daniel Evans",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-10-04",
+      "opponent": "Andy Murray",
+      "score": "5-7 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-09-08",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-3 3-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-09-05",
+      "opponent": "Peter Gojowczyk",
+      "score": "5-7 6-1 5-7 6-2 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-09-03",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-3 4-6 7-6(2) 0-6 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-09-01",
+      "opponent": "Arthur Rinderknech",
+      "score": "7-6(6) 4-6 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-08-31",
+      "opponent": "Cameron Norrie",
+      "score": "6-4 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-08-28",
+      "opponent": "Mikael Ymer",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-08-27",
+      "opponent": "Marcos Giron",
+      "score": "7-6(2) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-08-26",
+      "opponent": "Marton Fucsovics",
+      "score": "6-3 0-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-08-25",
+      "opponent": "Alexei Popyrin",
+      "score": "6-7(9) 6-1 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-08-16",
+      "opponent": "Thiago Monteiro",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-08-16",
+      "opponent": "Ilya Ivashka",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-08-16",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-3 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-07-27",
+      "opponent": "Alexander Erler",
+      "score": "7-5 1-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-07-25",
+      "opponent": "Richard Gasquet",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-07-24",
+      "opponent": "Albert Ramos",
+      "score": "6-2 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-07-23",
+      "opponent": "Filip Krajinovic",
+      "score": "7-6(3) 2-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-07-22",
+      "opponent": "Andrej Martin",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-07-20",
+      "opponent": "Lucas Pouille",
+      "score": "3-6 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-07-01",
+      "opponent": "Daniil Medvedev",
+      "score": "6-4 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-06-30",
+      "opponent": "Yasutaka Uchiyama",
+      "score": "6-3 6-7(4) 6-2 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-31",
+      "opponent": "Lukas Lacko",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-31",
+      "opponent": "Andrea Pellegrino",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-31",
+      "opponent": "Alejandro Tabilo",
+      "score": "6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-31",
+      "opponent": "Jan Lennard Struff",
+      "score": "6-4 7-6(3) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-31",
+      "opponent": "Nikoloz Basilashvili",
+      "score": "6-4 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-31",
+      "opponent": "Bernabe Zapata Miralles",
+      "score": "6-3 2-6 6-1 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-22",
+      "opponent": "Facundo Bagnis",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-21",
+      "opponent": "Taro Daniel",
+      "score": "6-2 5-7 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-20",
+      "opponent": "Gastao Elias",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-19",
+      "opponent": "Brandon Nakashima",
+      "score": "3-6 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-17",
+      "opponent": "Yasutaka Uchiyama",
+      "score": "6-0 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-03",
+      "opponent": "Rafael Nadal",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-05-03",
+      "opponent": "Adrian Mannarino",
+      "score": "6-4 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-04-27",
+      "opponent": "Marin Cilic",
+      "score": "6-3 1-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-04-25",
+      "opponent": "Carlos Taberner",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-04-24",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-04-20",
+      "opponent": "Frances Tiafoe",
+      "score": "6-4 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-04-10",
+      "opponent": "Jaume Munar",
+      "score": "7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-04-09",
+      "opponent": "Casper Ruud",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-04-08",
+      "opponent": "Feliciano Lopez",
+      "score": "4-6 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-04-06",
+      "opponent": "Nikola Milojevic",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-03-22",
+      "opponent": "Emil Ruusuvuori",
+      "score": "6-4 2-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-03-16",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-03-01",
+      "opponent": "Marco Trungelliti",
+      "score": "7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-03-01",
+      "opponent": "Filip Cristian Jianu",
+      "score": "6-3 6-7(3) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-02-21",
+      "opponent": "Tallon Griekspoor",
+      "score": "4-6 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-02-11",
+      "opponent": "Mikael Ymer",
+      "score": "2-6 6-4 6-4 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-02-09",
+      "opponent": "Botic Van De Zandschulp",
+      "score": "6-1 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-02-05",
+      "opponent": "Thiago Monteiro",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-02-03",
+      "opponent": "David Goffin",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-02-02",
+      "opponent": "Attila Balazs",
+      "score": "2-2 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-01-10",
+      "opponent": "Filip Horansky",
+      "score": "5-7 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-01-10",
+      "opponent": "Evgeny Karlovskiy",
+      "score": "7-6(1) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2021-01-10",
+      "opponent": "Hugo Dellien",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-27",
+      "opponent": "Lorenzo Giustino",
+      "score": "3-6 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-18",
+      "opponent": "Pedro Martinez",
+      "score": "7-6(6) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-17",
+      "opponent": "Mario Vilella Martinez",
+      "score": "1-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-16",
+      "opponent": "Juan Pablo Ficovich",
+      "score": "3-6 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-15",
+      "opponent": "Daniel Elahi Galan",
+      "score": "6-1 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-13",
+      "opponent": "Ramkumar Ramanathan",
+      "score": "7-6(4) 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-11",
+      "opponent": "Damir Dzumhur",
+      "score": "4-6 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-11",
+      "opponent": "Andrea Collarini",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-09",
+      "opponent": "Filip Horansky",
+      "score": "7-5 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-08",
+      "opponent": "Mario Vilella Martinez",
+      "score": "6-3 4-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-06",
+      "opponent": "Pedro Sousa",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-10-01",
+      "opponent": "Filip Horansky",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-09-29",
+      "opponent": "Juan Pablo Varillas",
+      "score": "2-6 7-6(8) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-09-28",
+      "opponent": "Aleksandar Vukic",
+      "score": "4-6 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-09-06",
+      "opponent": "Bernabe Zapata Miralles",
+      "score": "6-2 4-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-09-05",
+      "opponent": "Daniel Altmaier",
+      "score": "6-1 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-09-04",
+      "opponent": "Facundo Bagnis",
+      "score": "7-6(5) 4-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-09-03",
+      "opponent": "Benjamin Bonzi",
+      "score": "6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-09-02",
+      "opponent": "Juan Pablo Ficovich",
+      "score": "4-6 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-08-30",
+      "opponent": "Riccardo Bonadio",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-08-29",
+      "opponent": "Lorenzo Musetti",
+      "score": "7-5 2-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-08-28",
+      "opponent": "Tomas Martin Etcheverry",
+      "score": "7-6(2) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-08-26",
+      "opponent": "Matteo Viola",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-08-24",
+      "opponent": "Mathias Bourgue",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-08-23",
+      "opponent": "Tobias Kamke",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-08-22",
+      "opponent": "Giacomo Dambrosi",
+      "score": "6-2 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-08-17",
+      "opponent": "Gian Marco Moroni",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-08-16",
+      "opponent": "Borna Gojo",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-08-15",
+      "opponent": "Flavio Cobolli",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-02-17",
+      "opponent": "Federico Coria",
+      "score": "6-4 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-02-17",
+      "opponent": "Albert Ramos",
+      "score": "7-6(2) 4-6 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-27",
+      "opponent": "Zsombor Piros",
+      "score": "4-6 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-27",
+      "opponent": "Alexandar Lazarov",
+      "score": "6-3 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-27",
+      "opponent": "Timofey Skatov",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-27",
+      "opponent": "Tristan Meraut",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-27",
+      "opponent": "Sandro Kopp",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-13",
+      "opponent": "Evan Furness",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-13",
+      "opponent": "Joao Monteiro",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-13",
+      "opponent": "Evan Hoyt",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-13",
+      "opponent": "Billy Harris",
+      "score": "4-6 7-6(3) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-13",
+      "opponent": "Alvaro Lopez San Martin",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-06",
+      "opponent": "Evan Furness",
+      "score": "6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-06",
+      "opponent": "Alberto Barroso Campos",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-06",
+      "opponent": "Pawel Cias",
+      "score": "6-3 6-7(5) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-06",
+      "opponent": "Mats Rosenkranz",
+      "score": "6-2 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2020-01-06",
+      "opponent": "Mattia Bellucci",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-10-07",
+      "opponent": "Inigo Cervantes Huegun",
+      "score": "7-6(5) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-09-24",
+      "opponent": "Stefano Napolitano",
+      "score": "1-6 6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-09-09",
+      "opponent": "Salvatore Caruso",
+      "score": "4-6 7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-09-09",
+      "opponent": "Pedro Martinez",
+      "score": "5-7 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-09-09",
+      "opponent": "Yannick Hanfmann",
+      "score": "7-6(3) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-09-09",
+      "opponent": "Rio Noguchi",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-08-26",
+      "opponent": "Jurij Rodionov",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-08-21",
+      "opponent": "Frederico Ferreira Silva",
+      "score": "6-3 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-08-20",
+      "opponent": "Christopher Oconnell",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-07-22",
+      "opponent": "Timofey Skatov",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-07-22",
+      "opponent": "Carlos Boluda Purkiss",
+      "score": "3-6 6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-07-22",
+      "opponent": "Carlos Sanchez Jover",
+      "score": "6-4 2-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-07-22",
+      "opponent": "Sergio Martos Gornes",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-07-22",
+      "opponent": "Alejandro Moro Canas",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-06-17",
+      "opponent": "Kevin King",
+      "score": "6-1 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-06-17",
+      "opponent": "Mick Lescure",
+      "score": "3-6 7-6(3) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-06-17",
+      "opponent": "Alberto Barroso Campos",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-06-17",
+      "opponent": "Simon Carr",
+      "score": "4-6 6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-04-20",
+      "opponent": "Pedro Sousa",
+      "score": "6-7(5) 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-04-11",
+      "opponent": "Rudolf Molleker",
+      "score": "6-1 6-7(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-04-10",
+      "opponent": "Pedro Martinez",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-04-09",
+      "opponent": "Gleb Sakharov",
+      "score": "7-6(6) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-04-01",
+      "opponent": "Lukas Rosol",
+      "score": "6-2 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-04-01",
+      "opponent": "Jannik Sinner",
+      "score": "6-2 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-01-21",
+      "opponent": "Francisco Cerundolo",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-01-21",
+      "opponent": "Maxime Mora",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-01-21",
+      "opponent": "Jeroen Vanneste",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2019-01-21",
+      "opponent": "Alvaro Lopez San Martin",
+      "score": "5-7 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2018-02-12",
+      "opponent": "Sergio Gutierrez Ferrol",
+      "score": "6-0 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2018-02-12",
+      "opponent": "Nikita Tatyanin",
+      "score": "7-5 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "alcaraz-garfia-carlos",
+      "date": "2018-02-12",
+      "opponent": "Federico Gaio",
+      "score": "7-5 4-6 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    }
+  ]
+}

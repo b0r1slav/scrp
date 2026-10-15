@@ -1,0 +1,4507 @@
+{
+  "source": "Cito API",
+  "player": "sinner-jannik",
+  "updated_at": "2026-10-15T14:56:37.960Z",
+  "matches": [
+    {
+      "player": "sinner-jannik",
+      "date": "2026-07-12",
+      "opponent": "Alexander Zverev",
+      "score": "6-7 7-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-07-10",
+      "opponent": "Novak Djokovic",
+      "score": "6-4 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-07-07",
+      "opponent": "Jan Lennard Struff",
+      "score": "7-5 7-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-07-05",
+      "opponent": "Shintaro Mochizuki",
+      "score": "6-3 7-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-07-03",
+      "opponent": "Jenson Brooksby",
+      "score": "6-4 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-07-01",
+      "opponent": "Nuno Borges",
+      "score": "7-6 7-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-06-29",
+      "opponent": "Miomir Kecmanovic",
+      "score": "4-6 6-3 6-7 6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-05-25",
+      "opponent": "Juan Manuel Cerundolo",
+      "score": "3-6 2-6 7-5 6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-05-25",
+      "opponent": "Clement Tabur",
+      "score": "6-1 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-05-06",
+      "opponent": "Casper Ruud",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-05-06",
+      "opponent": "Daniil Medvedev",
+      "score": "6-2 5-7 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-05-06",
+      "opponent": "Andrey Rublev",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-05-06",
+      "opponent": "Andrea Pellegrino",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-05-06",
+      "opponent": "Alexei Popyrin",
+      "score": "6-2 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-05-06",
+      "opponent": "Sebastian Ofner",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-22",
+      "opponent": "Alexander Zverev",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-22",
+      "opponent": "Arthur Fils",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-22",
+      "opponent": "Rafael Jodar",
+      "score": "6-2 7-6(0)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-22",
+      "opponent": "Cameron Norrie",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-22",
+      "opponent": "Elmer Moller",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-22",
+      "opponent": "Benjamin Bonzi",
+      "score": "6-7(6) 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-05",
+      "opponent": "Carlos Alcaraz",
+      "score": "7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-05",
+      "opponent": "Alexander Zverev",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-05",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-05",
+      "opponent": "Tomas Machac",
+      "score": "6-1 6-7(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-04-05",
+      "opponent": "Ugo Humbert",
+      "score": "6-3 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-18",
+      "opponent": "Jiri Lehecka",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-18",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-18",
+      "opponent": "Frances Tiafoe",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-18",
+      "opponent": "Alex Michelsen",
+      "score": "7-5 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-18",
+      "opponent": "Corentin Moutet",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-18",
+      "opponent": "Damir Dzumhur",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-04",
+      "opponent": "Daniil Medvedev",
+      "score": "7-6(6) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-04",
+      "opponent": "Alexander Zverev",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-04",
+      "opponent": "Learner Tien",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-04",
+      "opponent": "Joao Fonseca",
+      "score": "7-6(6) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-04",
+      "opponent": "Denis Shapovalov",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-03-04",
+      "opponent": "Dalibor Svrcina",
+      "score": "6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-02-19",
+      "opponent": "Jakub Mensik",
+      "score": "7-6(3) 2-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-02-18",
+      "opponent": "Alexei Popyrin",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-02-16",
+      "opponent": "Tomas Machac",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-01-30",
+      "opponent": "Novak Djokovic",
+      "score": "3-6 6-3 4-6 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-01-28",
+      "opponent": "Ben Shelton",
+      "score": "6-3 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-01-26",
+      "opponent": "Luciano Darderi",
+      "score": "6-1 6-3 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-01-24",
+      "opponent": "Eliot Spizzirri",
+      "score": "4-6 6-3 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-01-22",
+      "opponent": "James Duckworth",
+      "score": "6-1 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2026-01-20",
+      "opponent": "Hugo Gaston",
+      "score": "6-2 6-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-11-09",
+      "opponent": "Felix Auger Aliassime",
+      "score": "7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-11-09",
+      "opponent": "Ben Shelton",
+      "score": "6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-11-09",
+      "opponent": "Alexander Zverev",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-11-09",
+      "opponent": "Carlos Alcaraz",
+      "score": "7-6(4) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-11-09",
+      "opponent": "Alex De Minaur",
+      "score": "7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-27",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-27",
+      "opponent": "Alexander Zverev",
+      "score": "6-0 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-27",
+      "opponent": "Ben Shelton",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-27",
+      "opponent": "Francisco Cerundolo",
+      "score": "7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-27",
+      "opponent": "Zizou Bergs",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-26",
+      "opponent": "Alexander Zverev",
+      "score": "3-6 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-25",
+      "opponent": "Alex De Minaur",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-24",
+      "opponent": "Alexander Bublik",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-23",
+      "opponent": "Flavio Cobolli",
+      "score": "6-2 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-22",
+      "opponent": "Daniel Altmaier",
+      "score": "6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-01",
+      "opponent": "Learner Tien",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-01",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-7(3) 7-5 3-2 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-10-01",
+      "opponent": "Daniel Altmaier",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-09-30",
+      "opponent": "Alex De Minaur",
+      "score": "6-3 4-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-09-29",
+      "opponent": "Fabian Marozsan",
+      "score": "6-1 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-09-27",
+      "opponent": "Terence Atmane",
+      "score": "6-4 5-7 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-09-25",
+      "opponent": "Marin Cilic",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-09-07",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-2 3-6 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-09-06",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-1 3-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-09-04",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-1 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-09-02",
+      "opponent": "Alexander Bublik",
+      "score": "6-1 6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-08-30",
+      "opponent": "Denis Shapovalov",
+      "score": "5-7 6-4 6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-08-28",
+      "opponent": "Alexei Popyrin",
+      "score": "6-3 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-08-26",
+      "opponent": "Vit Kopriva",
+      "score": "6-1 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-08-18",
+      "opponent": "Carlos Alcaraz",
+      "score": "5-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-08-16",
+      "opponent": "Terence Atmane",
+      "score": "7-6(4) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-08-14",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-08-13",
+      "opponent": "Adrian Mannarino",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-08-12",
+      "opponent": "Gabriel Diallo",
+      "score": "6-2 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-08-09",
+      "opponent": "Daniel Elahi Galan",
+      "score": "6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-07-13",
+      "opponent": "Carlos Alcaraz",
+      "score": "4-6 6-4 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-07-11",
+      "opponent": "Novak Djokovic",
+      "score": "6-3 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-07-09",
+      "opponent": "Ben Shelton",
+      "score": "7-6(2) 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-07-07",
+      "opponent": "Grigor Dimitrov",
+      "score": "3-6 5-7 2-2 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-07-05",
+      "opponent": "Pedro Martinez",
+      "score": "6-1 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-07-03",
+      "opponent": "Aleksandar Vukic",
+      "score": "6-1 6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-07-01",
+      "opponent": "Luca Nardi",
+      "score": "6-4 6-3 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-06-19",
+      "opponent": "Alexander Bublik",
+      "score": "3-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-06-17",
+      "opponent": "Yannick Hanfmann",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-26",
+      "opponent": "Carlos Alcaraz",
+      "score": "4-6 6-7(4) 6-4 7-6(3) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-26",
+      "opponent": "Novak Djokovic",
+      "score": "6-4 7-5 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-26",
+      "opponent": "Alexander Bublik",
+      "score": "6-1 7-5 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-26",
+      "opponent": "Andrey Rublev",
+      "score": "6-1 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-26",
+      "opponent": "Jiri Lehecka",
+      "score": "6-0 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-26",
+      "opponent": "Richard Gasquet",
+      "score": "6-3 6-0 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-26",
+      "opponent": "Arthur Rinderknech",
+      "score": "6-4 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-07",
+      "opponent": "Carlos Alcaraz",
+      "score": "7-6(5) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-07",
+      "opponent": "Tommy Paul",
+      "score": "1-6 6-0 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-07",
+      "opponent": "Casper Ruud",
+      "score": "6-0 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-07",
+      "opponent": "Francisco Cerundolo",
+      "score": "7-6(2) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-07",
+      "opponent": "Jesper De Jong",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-05-07",
+      "opponent": "Mariano Navone",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-01-26",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-01-24",
+      "opponent": "Ben Shelton",
+      "score": "7-6(2) 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-01-22",
+      "opponent": "Alex De Minaur",
+      "score": "6-3 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-01-20",
+      "opponent": "Holger Rune",
+      "score": "6-3 3-6 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-01-18",
+      "opponent": "Marcos Giron",
+      "score": "6-3 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-01-16",
+      "opponent": "Tristan Schoolkate",
+      "score": "4-6 6-4 6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2025-01-13",
+      "opponent": "Nicolas Jarry",
+      "score": "7-6(2) 7-6(5) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-11-24",
+      "opponent": "Tallon Griekspoor",
+      "score": "7-6(2) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-11-23",
+      "opponent": "Alex De Minaur",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-11-21",
+      "opponent": "Sebastian Baez",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-11-11",
+      "opponent": "Alex De Minaur",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-11-11",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-11-11",
+      "opponent": "Daniil Medvedev",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-11-11",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-11-11",
+      "opponent": "Casper Ruud",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-10-02",
+      "opponent": "Novak Djokovic",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-10-02",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-7(6) 6-4 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-10-02",
+      "opponent": "Tomas Machac",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-10-02",
+      "opponent": "Daniil Medvedev",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-10-02",
+      "opponent": "Ben Shelton",
+      "score": "6-4 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-10-02",
+      "opponent": "Tomas Martin Etcheverry",
+      "score": "6-7(3) 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-10-02",
+      "opponent": "Taro Daniel",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-10-01",
+      "opponent": "Bu Yunchaokete",
+      "score": "6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-09-30",
+      "opponent": "Jiri Lehecka",
+      "score": "6-2 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-09-28",
+      "opponent": "Roman Safiullin",
+      "score": "3-6 6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-09-26",
+      "opponent": "Nicolas Jarry",
+      "score": "4-6 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-09-08",
+      "opponent": "Taylor Fritz",
+      "score": "6-3 6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-09-06",
+      "opponent": "Jack Draper",
+      "score": "7-5 7-6(3) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-09-05",
+      "opponent": "Daniil Medvedev",
+      "score": "6-2 1-6 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-09-03",
+      "opponent": "Tommy Paul",
+      "score": "7-6(3) 7-6(5) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-31",
+      "opponent": "Christopher Oconnell",
+      "score": "6-1 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-29",
+      "opponent": "Alex Michelsen",
+      "score": "6-4 6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-27",
+      "opponent": "Mackenzie Mcdonald",
+      "score": "2-6 6-2 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-12",
+      "opponent": "Frances Tiafoe",
+      "score": "7-6(4) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-12",
+      "opponent": "Alexander Zverev",
+      "score": "7-6(9) 5-7 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-12",
+      "opponent": "Andrey Rublev",
+      "score": "4-6 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-12",
+      "opponent": "Jordan Thompson",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-12",
+      "opponent": "Alex Michelsen",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-05",
+      "opponent": "Andrey Rublev",
+      "score": "6-3 1-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-05",
+      "opponent": "Alejandro Tabilo",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-08-05",
+      "opponent": "Borna Coric",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-07-09",
+      "opponent": "Daniil Medvedev",
+      "score": "6-7(7) 6-4 7-6(4) 2-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-07-07",
+      "opponent": "Ben Shelton",
+      "score": "6-2 6-4 7-6(9)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-07-05",
+      "opponent": "Miomir Kecmanovic",
+      "score": "6-1 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-07-03",
+      "opponent": "Matteo Berrettini",
+      "score": "7-6(3) 7-6(4) 2-6 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-07-01",
+      "opponent": "Yannick Hanfmann",
+      "score": "6-3 6-4 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-06-23",
+      "opponent": "Hubert Hurkacz",
+      "score": "7-6(8) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-06-22",
+      "opponent": "Zhizhen Zhang",
+      "score": "6-4 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-06-21",
+      "opponent": "Jan Lennard Struff",
+      "score": "6-2 6-7(1) 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-06-20",
+      "opponent": "Fabian Marozsan",
+      "score": "6-4 6-7(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-06-18",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-7(8) 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-05-27",
+      "opponent": "Carlos Alcaraz",
+      "score": "2-6 6-3 3-6 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-05-27",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-2 6-4 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-05-27",
+      "opponent": "Corentin Moutet",
+      "score": "2-6 6-3 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-05-27",
+      "opponent": "Pavel Kotov",
+      "score": "6-4 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-05-27",
+      "opponent": "Richard Gasquet",
+      "score": "6-4 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-05-27",
+      "opponent": "Christopher Eubanks",
+      "score": "6-3 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-04-22",
+      "opponent": "Felix Auger Aliassime",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-04-22",
+      "opponent": "Karen Khachanov",
+      "score": "5-7 6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-04-22",
+      "opponent": "Pavel Kotov",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-04-22",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-0 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-04-08",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-4 3-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-04-08",
+      "opponent": "Holger Rune",
+      "score": "6-4 6-7(6) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-04-08",
+      "opponent": "Jan Lennard Struff",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-04-08",
+      "opponent": "Sebastian Korda",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-18",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-18",
+      "opponent": "Daniil Medvedev",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-18",
+      "opponent": "Tomas Machac",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-18",
+      "opponent": "Christopher Oconnell",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-18",
+      "opponent": "Tallon Griekspoor",
+      "score": "5-7 7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-18",
+      "opponent": "Andrea Vavassori",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-04",
+      "opponent": "Carlos Alcaraz",
+      "score": "1-6 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-04",
+      "opponent": "Jiri Lehecka",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-04",
+      "opponent": "Ben Shelton",
+      "score": "7-6(4) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-04",
+      "opponent": "Jan Lennard Struff",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-03-04",
+      "opponent": "Thanasi Kokkinakis",
+      "score": "6-3 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-02-18",
+      "opponent": "Alex De Minaur",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-02-17",
+      "opponent": "Tallon Griekspoor",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-02-16",
+      "opponent": "Milos Raonic",
+      "score": "7-6(4) 1-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-02-15",
+      "opponent": "Gael Monfils",
+      "score": "6-3 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-02-14",
+      "opponent": "Botic Van De Zandschulp",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-01-28",
+      "opponent": "Daniil Medvedev",
+      "score": "3-6 3-6 6-4 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-01-26",
+      "opponent": "Novak Djokovic",
+      "score": "6-1 6-2 6-7(6) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-01-23",
+      "opponent": "Andrey Rublev",
+      "score": "6-4 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-01-21",
+      "opponent": "Karen Khachanov",
+      "score": "6-4 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-01-19",
+      "opponent": "Sebastian Baez",
+      "score": "6-0 6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-01-17",
+      "opponent": "Jesper De Jong",
+      "score": "6-2 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2024-01-14",
+      "opponent": "Botic Van De Zandschulp",
+      "score": "6-4 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-11-26",
+      "opponent": "Alex De Minaur",
+      "score": "6-3 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-11-25",
+      "opponent": "Novak Djokovic",
+      "score": "6-2 2-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-11-23",
+      "opponent": "Tallon Griekspoor",
+      "score": "7-6(3) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-11-13",
+      "opponent": "Holger Rune",
+      "score": "6-2 5-7 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-11-13",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-11-13",
+      "opponent": "Novak Djokovic",
+      "score": "7-5 6-7(5) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-11-13",
+      "opponent": "Novak Djokovic",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-11-13",
+      "opponent": "Daniil Medvedev",
+      "score": "6-3 6-7(4) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-30",
+      "opponent": "Alex De Minaur",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-30",
+      "opponent": "Mackenzie Mcdonald",
+      "score": "6-7(6) 7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-29",
+      "opponent": "Daniil Medvedev",
+      "score": "7-6(7) 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-28",
+      "opponent": "Andrey Rublev",
+      "score": "7-5 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-27",
+      "opponent": "Frances Tiafoe",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-26",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-25",
+      "opponent": "Ben Shelton",
+      "score": "7-6(2) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-04",
+      "opponent": "Daniil Medvedev",
+      "score": "7-6(2) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-03",
+      "opponent": "Carlos Alcaraz",
+      "score": "7-6(4) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-02",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-4 3-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-02",
+      "opponent": "Ben Shelton",
+      "score": "2-6 6-3 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-02",
+      "opponent": "Sebastian Baez",
+      "score": "3-6 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-02",
+      "opponent": "Marcos Giron",
+      "score": "7-6(7) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-10-01",
+      "opponent": "Yoshihito Nishioka",
+      "score": "6-2 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-09-29",
+      "opponent": "Daniel Evans",
+      "score": "6-4 6-7(2) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-09-05",
+      "opponent": "Alexander Zverev",
+      "score": "6-4 3-6 6-2 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-09-02",
+      "opponent": "Stan Wawrinka",
+      "score": "6-3 2-6 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-08-31",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-4 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-08-30",
+      "opponent": "Yannick Hanfmann",
+      "score": "6-3 6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-08-14",
+      "opponent": "Dusan Lajovic",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-08-07",
+      "opponent": "Alex De Minaur",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-08-07",
+      "opponent": "Tommy Paul",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-08-07",
+      "opponent": "Gael Monfils",
+      "score": "6-4 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-08-07",
+      "opponent": "Andy Murray",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-08-07",
+      "opponent": "Matteo Berrettini",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-07-14",
+      "opponent": "Novak Djokovic",
+      "score": "6-3 6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-07-11",
+      "opponent": "Roman Safiullin",
+      "score": "6-4 3-6 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-07-09",
+      "opponent": "Daniel Elahi Galan",
+      "score": "7-6(4) 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-07-07",
+      "opponent": "Quentin Halys",
+      "score": "3-6 6-2 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-07-05",
+      "opponent": "Diego Schwartzman",
+      "score": "7-5 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-07-03",
+      "opponent": "Juan Manuel Cerundolo",
+      "score": "6-2 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-06-23",
+      "opponent": "Alexander Bublik",
+      "score": "7-5 2-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-06-22",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-7(4) 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-06-20",
+      "opponent": "Richard Gasquet",
+      "score": "6-3 5-7 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-06-12",
+      "opponent": "Emil Ruusuvuori",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-06-12",
+      "opponent": "Alexander Bublik",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-05-29",
+      "opponent": "Daniel Altmaier",
+      "score": "6-7(0) 7-6(7) 1-6 7-6(4) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-05-29",
+      "opponent": "Alexandre Muller",
+      "score": "6-1 6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-05-08",
+      "opponent": "Francisco Cerundolo",
+      "score": "6-7(3) 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-05-08",
+      "opponent": "Alexander Shevchenko",
+      "score": "6-3 6-7(4) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-05-08",
+      "opponent": "Thanasi Kokkinakis",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-04-21",
+      "opponent": "Lorenzo Musetti",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-04-20",
+      "opponent": "Yoshihito Nishioka",
+      "score": "6-1 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-04-19",
+      "opponent": "Diego Schwartzman",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-04-10",
+      "opponent": "Holger Rune",
+      "score": "1-6 7-5 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-04-10",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-04-10",
+      "opponent": "Hubert Hurkacz",
+      "score": "3-6 7-6(6) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-04-10",
+      "opponent": "Diego Schwartzman",
+      "score": "6-0 3-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-20",
+      "opponent": "Daniil Medvedev",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-20",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-7(4) 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-20",
+      "opponent": "Emil Ruusuvuori",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-20",
+      "opponent": "Andrey Rublev",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-20",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-20",
+      "opponent": "Laslo Djere",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-06",
+      "opponent": "Carlos Alcaraz",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-06",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-06",
+      "opponent": "Stan Wawrinka",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-06",
+      "opponent": "Adrian Mannarino",
+      "score": "7-6(7) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-03-06",
+      "opponent": "Richard Gasquet",
+      "score": "6-3 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-02-23",
+      "opponent": "Arthur Fils",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-02-19",
+      "opponent": "Daniil Medvedev",
+      "score": "5-7 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-02-18",
+      "opponent": "Tallon Griekspoor",
+      "score": "7-5 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-02-17",
+      "opponent": "Stan Wawrinka",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-02-16",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-02-15",
+      "opponent": "Benjamin Bonzi",
+      "score": "6-2 3-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-02-12",
+      "opponent": "Maxime Cressy",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-02-11",
+      "opponent": "Arthur Fils",
+      "score": "7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-02-10",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-02-08",
+      "opponent": "Marton Fucsovics",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-01-22",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-4 6-4 3-6 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-01-20",
+      "opponent": "Marton Fucsovics",
+      "score": "4-6 4-6 6-1 6-2 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-01-18",
+      "opponent": "Tomas Martin Etcheverry",
+      "score": "6-3 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-01-16",
+      "opponent": "Kyle Edmund",
+      "score": "6-4 6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-01-06",
+      "opponent": "Sebastian Korda",
+      "score": "7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-01-05",
+      "opponent": "Thanasi Kokkinakis",
+      "score": "7-6(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2023-01-03",
+      "opponent": "Kyle Edmund",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-10-31",
+      "opponent": "Marc Andrea Huesler",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-10-28",
+      "opponent": "Daniil Medvedev",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-10-27",
+      "opponent": "Francisco Cerundolo",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-10-26",
+      "opponent": "Cristian Garin",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-10-01",
+      "opponent": "Holger Rune",
+      "score": "5-7 6-4 5-2 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-09-30",
+      "opponent": "Aleksandar Vukic",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-09-29",
+      "opponent": "Nuno Borges",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-09-18",
+      "opponent": "Mikael Ymer",
+      "score": "6-4 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-09-16",
+      "opponent": "Francisco Cerundolo",
+      "score": "7-5 1-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-09-08",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-3 6-7(7) 6-7(0) 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-09-06",
+      "opponent": "Ilya Ivashka",
+      "score": "6-1 5-7 6-2 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-09-04",
+      "opponent": "Brandon Nakashima",
+      "score": "3-6 6-4 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-09-01",
+      "opponent": "Christopher Eubanks",
+      "score": "6-4 7-6(8) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-08-30",
+      "opponent": "Daniel Altmaier",
+      "score": "5-7 6-2 6-1 3-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-08-15",
+      "opponent": "Felix Auger Aliassime",
+      "score": "2-6 7-6(1) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-08-15",
+      "opponent": "Miomir Kecmanovic",
+      "score": "7-5 3-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-08-15",
+      "opponent": "Thanasi Kokkinakis",
+      "score": "6-7(9) 6-4 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-08-08",
+      "opponent": "Pablo Carreno Busta",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-08-08",
+      "opponent": "Adrian Mannarino",
+      "score": "2-6 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-07-31",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-7(5) 6-1 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-07-30",
+      "opponent": "Franco Agamenone",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-07-29",
+      "opponent": "Roberto Carballes Baena",
+      "score": "6-4 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-07-27",
+      "opponent": "Jaume Munar",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-07-05",
+      "opponent": "Novak Djokovic",
+      "score": "5-7 2-6 6-3 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-07-03",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-1 6-4 6-7(8) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-07-01",
+      "opponent": "John Isner",
+      "score": "6-4 7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-06-29",
+      "opponent": "Mikael Ymer",
+      "score": "6-4 6-3 5-7 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-06-27",
+      "opponent": "Stan Wawrinka",
+      "score": "7-5 4-6 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-06-22",
+      "opponent": "Tommy Paul",
+      "score": "6-3 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-23",
+      "opponent": "Andrey Rublev",
+      "score": "1-6 6-4 2-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-23",
+      "opponent": "Mackenzie Mcdonald",
+      "score": "6-3 7-6(6) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-23",
+      "opponent": "Roberto Carballes Baena",
+      "score": "3-6 6-4 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-23",
+      "opponent": "Bjorn Fratangelo",
+      "score": "6-3 6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-09",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "7-6(5) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-09",
+      "opponent": "Filip Krajinovic",
+      "score": "6-2 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-09",
+      "opponent": "Fabio Fognini",
+      "score": "6-2 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-09",
+      "opponent": "Pedro Martinez",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-02",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-02",
+      "opponent": "Alex De Minaur",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-05-02",
+      "opponent": "Tommy Paul",
+      "score": "6-7(4) 7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-04-11",
+      "opponent": "Alexander Zverev",
+      "score": "5-7 6-3 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-04-11",
+      "opponent": "Andrey Rublev",
+      "score": "5-7 6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-04-11",
+      "opponent": "Emil Ruusuvuori",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-04-11",
+      "opponent": "Borna Coric",
+      "score": "6-3 2-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-03-21",
+      "opponent": "Francisco Cerundolo",
+      "score": "4-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-03-21",
+      "opponent": "Nick Kyrgios",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-03-21",
+      "opponent": "Pablo Carreno Busta",
+      "score": "5-7 7-5 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-03-21",
+      "opponent": "Emil Ruusuvuori",
+      "score": "6-4 3-6 7-6(8)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-03-07",
+      "opponent": "Nick Kyrgios",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-03-07",
+      "opponent": "Benjamin Bonzi",
+      "score": "7-6(5) 3-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-03-07",
+      "opponent": "Laslo Djere",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-03-04",
+      "opponent": "Norbert Gombos",
+      "score": "6-4 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-03-04",
+      "opponent": "Filip Horansky",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-02-24",
+      "opponent": "Hubert Hurkacz",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-02-23",
+      "opponent": "Andy Murray",
+      "score": "7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-02-22",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "4-6 7-6(6) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-01-26",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-3 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-01-24",
+      "opponent": "Alex De Minaur",
+      "score": "7-6(3) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-01-22",
+      "opponent": "Taro Daniel",
+      "score": "6-4 1-6 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-01-20",
+      "opponent": "Steve Johnson",
+      "score": "6-2 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-01-18",
+      "opponent": "Joao Sousa",
+      "score": "6-4 7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-01-06",
+      "opponent": "Roman Safiullin",
+      "score": "7-6(6) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-01-04",
+      "opponent": "Arthur Rinderknech",
+      "score": "6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2022-01-02",
+      "opponent": "Max Purcell",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-11-29",
+      "opponent": "Marin Cilic",
+      "score": "3-6 7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-11-27",
+      "opponent": "Daniel Elahi Galan",
+      "score": "7-5 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-11-26",
+      "opponent": "John Isner",
+      "score": "6-2 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-11-15",
+      "opponent": "Hubert Hurkacz",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-11-15",
+      "opponent": "Daniil Medvedev",
+      "score": "6-0 6-7(5) 7-6(8)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-11-10",
+      "opponent": "Andy Murray",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-11-01",
+      "opponent": "Carlos Alcaraz",
+      "score": "7-6(1) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-30",
+      "opponent": "Frances Tiafoe",
+      "score": "3-6 7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-29",
+      "opponent": "Casper Ruud",
+      "score": "7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-28",
+      "opponent": "Dennis Novak",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-27",
+      "opponent": "Reilly Opelka",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-24",
+      "opponent": "Diego Schwartzman",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-23",
+      "opponent": "Lloyd Harris",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-22",
+      "opponent": "Arthur Rinderknech",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-20",
+      "opponent": "Lorenzo Musetti",
+      "score": "7-5 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-04",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-04",
+      "opponent": "John Isner",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-04",
+      "opponent": "John Millman",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-03",
+      "opponent": "Gael Monfils",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-02",
+      "opponent": "Filip Krajinovic",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-10-01",
+      "opponent": "James Duckworth",
+      "score": "7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-09-30",
+      "opponent": "Egor Gerasimov",
+      "score": "6-2 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-09-06",
+      "opponent": "Alexander Zverev",
+      "score": "6-4 6-4 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-09-04",
+      "opponent": "Gael Monfils",
+      "score": "7-6(1) 6-2 4-6 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-09-02",
+      "opponent": "Zachary Svajda",
+      "score": "6-3 7-6(2) 6-7(6) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-08-31",
+      "opponent": "Max Purcell",
+      "score": "6-4 6-2 4-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-08-16",
+      "opponent": "John Isner",
+      "score": "5-7 7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-08-16",
+      "opponent": "Federico Delbonis",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-08-09",
+      "opponent": "James Duckworth",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-08-08",
+      "opponent": "Mackenzie Mcdonald",
+      "score": "7-5 4-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-08-07",
+      "opponent": "Jenson Brooksby",
+      "score": "7-6(2) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-08-06",
+      "opponent": "Steve Johnson",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-08-05",
+      "opponent": "Sebastian Korda",
+      "score": "7-6(3) 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-08-04",
+      "opponent": "Emil Ruusuvuori",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-07-29",
+      "opponent": "Christopher Oconnell",
+      "score": "7-6(7) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-06-28",
+      "opponent": "Marton Fucsovics",
+      "score": "5-7 6-3 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-06-14",
+      "opponent": "Jack Draper",
+      "score": "7-6(6) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-05-31",
+      "opponent": "Rafael Nadal",
+      "score": "7-5 6-3 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-05-31",
+      "opponent": "Mikael Ymer",
+      "score": "6-1 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-05-31",
+      "opponent": "Gianluca Mager",
+      "score": "6-1 7-5 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-05-31",
+      "opponent": "Pierre Hugues Herbert",
+      "score": "6-1 4-6 6-7(4) 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-05-20",
+      "opponent": "Arthur Rinderknech",
+      "score": "6-7(7) 6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-05-19",
+      "opponent": "Aslan Karatsev",
+      "score": "0-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-05-10",
+      "opponent": "Rafael Nadal",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-05-10",
+      "opponent": "Ugo Humbert",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-05-03",
+      "opponent": "Alexei Popyrin",
+      "score": "7-6(5) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-05-03",
+      "opponent": "Guido Pella",
+      "score": "6-2 4-4 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-04-24",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-04-23",
+      "opponent": "Andrey Rublev",
+      "score": "6-2 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-04-22",
+      "opponent": "Roberto Bautista Agut",
+      "score": "7-6(9) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-04-20",
+      "opponent": "Egor Gerasimov",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-04-12",
+      "opponent": "Novak Djokovic",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-04-12",
+      "opponent": "Albert Ramos",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-22",
+      "opponent": "Hubert Hurkacz",
+      "score": "7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-22",
+      "opponent": "Roberto Bautista Agut",
+      "score": "5-7 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-22",
+      "opponent": "Alexander Bublik",
+      "score": "7-6(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-22",
+      "opponent": "Emil Ruusuvuori",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-22",
+      "opponent": "Karen Khachanov",
+      "score": "4-6 7-6(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-22",
+      "opponent": "Hugo Gaston",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-18",
+      "opponent": "Aslan Karatsev",
+      "score": "6-7(5) 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-17",
+      "opponent": "Roberto Bautista Agut",
+      "score": "6-4 3-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-16",
+      "opponent": "Alexander Bublik",
+      "score": "2-6 7-6(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-12",
+      "opponent": "Daniil Medvedev",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-10",
+      "opponent": "Hugo Gaston",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-03-08",
+      "opponent": "Gregoire Barrere",
+      "score": "7-6(3) 6-7(5) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-02-24",
+      "opponent": "Aljaz Bedene",
+      "score": "3-6 6-2 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-02-08",
+      "opponent": "Denis Shapovalov",
+      "score": "3-6 6-3 6-2 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-02-07",
+      "opponent": "Stefano Travaglia",
+      "score": "7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-02-06",
+      "opponent": "Karen Khachanov",
+      "score": "7-6(4) 4-6 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-02-05",
+      "opponent": "Miomir Kecmanovic",
+      "score": "7-6(10) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-02-05",
+      "opponent": "Aljaz Bedene",
+      "score": "7-6(6) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2021-02-03",
+      "opponent": "Aleksandar Vukic",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-11-14",
+      "opponent": "Vasek Pospisil",
+      "score": "6-4 3-6 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-11-13",
+      "opponent": "Adrian Mannarino",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-11-12",
+      "opponent": "Alex De Minaur",
+      "score": "6-7(3) 6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-11-11",
+      "opponent": "Marc Andrea Huesler",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-11-10",
+      "opponent": "Marton Fucsovics",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-10-29",
+      "opponent": "Andrey Rublev",
+      "score": "2-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-10-28",
+      "opponent": "Casper Ruud",
+      "score": "7-6(2) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-10-24",
+      "opponent": "Alexander Zverev",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-10-23",
+      "opponent": "Gilles Simon",
+      "score": "6-3 0-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-10-22",
+      "opponent": "Pierre Hugues Herbert",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-10-20",
+      "opponent": "James Duckworth",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-28",
+      "opponent": "Rafael Nadal",
+      "score": "7-6(4) 6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-28",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 6-3 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-28",
+      "opponent": "Federico Coria",
+      "score": "6-3 7-5 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-28",
+      "opponent": "Benjamin Bonzi",
+      "score": "6-2 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-28",
+      "opponent": "David Goffin",
+      "score": "7-5 6-0 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-14",
+      "opponent": "Grigor Dimitrov",
+      "score": "4-6 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-14",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-1 6-7(9) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-14",
+      "opponent": "Benoit Paire",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-10",
+      "opponent": "Laslo Djere",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-09",
+      "opponent": "Philipp Kohlschreiber",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-09-01",
+      "opponent": "Karen Khachanov",
+      "score": "3-6 6-7(7) 6-2 6-0 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-08-20",
+      "opponent": "Salvatore Caruso",
+      "score": "5-7 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-03-05",
+      "opponent": "Denis Kudla",
+      "score": "6-3 6-7(4) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-03-04",
+      "opponent": "Sem Verbeek",
+      "score": "6-0 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-02-20",
+      "opponent": "Daniil Medvedev",
+      "score": "1-6 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-02-18",
+      "opponent": "Norbert Gombos",
+      "score": "6-4 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-02-14",
+      "opponent": "Pablo Carreno Busta",
+      "score": "7-5 3-6 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-02-13",
+      "opponent": "David Goffin",
+      "score": "7-6(7) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-02-12",
+      "opponent": "Radu Albot",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-02-04",
+      "opponent": "Mikael Ymer",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-01-22",
+      "opponent": "Marton Fucsovics",
+      "score": "6-4 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-01-21",
+      "opponent": "Max Purcell",
+      "score": "7-6(2) 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-01-13",
+      "opponent": "Benoit Paire",
+      "score": "6-4 2-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2020-01-06",
+      "opponent": "Emil Ruusuvuori",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-11-17",
+      "opponent": "Sebastian Ofner",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-11-16",
+      "opponent": "Antoine Hoang",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-11-15",
+      "opponent": "Federico Gaio",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-11-14",
+      "opponent": "Roberto Marcora",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-11-13",
+      "opponent": "Lucas Miedler",
+      "score": "7-6(5) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-11-05",
+      "opponent": "Mikael Ymer",
+      "score": "4-0 4-2 4-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-11-05",
+      "opponent": "Ugo Humbert",
+      "score": "4-3(5) 3-4(3) 4-2 4-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-11-05",
+      "opponent": "Frances Tiafoe",
+      "score": "3-4(4) 4-2 4-2 4-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-11-05",
+      "opponent": "Alex De Minaur",
+      "score": "4-2 4-1 4-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-11-05",
+      "opponent": "Miomir Kecmanovic",
+      "score": "2-4 4-1 4-2 4-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-10-24",
+      "opponent": "Gael Monfils",
+      "score": "6-3 7-6(8)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-10-22",
+      "opponent": "Philipp Kohlschreiber",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-10-19",
+      "opponent": "Stan Wawrinka",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-10-18",
+      "opponent": "Frances Tiafoe",
+      "score": "6-4 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-10-17",
+      "opponent": "Gael Monfils",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-10-15",
+      "opponent": "Kamil Majchrzak",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-10-12",
+      "opponent": "Mathias Bourgue",
+      "score": "6-4 4-6 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-10-11",
+      "opponent": "Marius Copil",
+      "score": "3-6 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-10-10",
+      "opponent": "Lukas Rosol",
+      "score": "6-7(3) 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-10-08",
+      "opponent": "Tristan Lamasine",
+      "score": "7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-09-26",
+      "opponent": "Aljaz Bedene",
+      "score": "6-4 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-09-24",
+      "opponent": "Lucas Miedler",
+      "score": "7-6(1) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-09-16",
+      "opponent": "Mikhail Kukushkin",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-08-27",
+      "opponent": "Stan Wawrinka",
+      "score": "6-3 7-6(4) 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-08-26",
+      "opponent": "Matteo Viola",
+      "score": "6-1 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-08-23",
+      "opponent": "Mario Vilella Martinez",
+      "score": "7-6(1) 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-08-22",
+      "opponent": "Viktor Galovic",
+      "score": "4-6 7-6(2) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-08-08",
+      "opponent": "Bjorn Fratangelo",
+      "score": "7-6(6) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-08-06",
+      "opponent": "Sem Verbeek",
+      "score": "3-6 7-6(3) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-08-04",
+      "opponent": "Alex Bolt",
+      "score": "6-4 3-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-08-03",
+      "opponent": "Jc Aragone",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-08-03",
+      "opponent": "Duck Hee Lee",
+      "score": "4-6 6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-08-01",
+      "opponent": "Maxime Cressy",
+      "score": "6-4 6-7(10) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-07-31",
+      "opponent": "Alexey Zakharov",
+      "score": "4-6 6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-07-25",
+      "opponent": "Mitchell Krueger",
+      "score": "7-5 1-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-07-24",
+      "opponent": "Tomas Barrios Vera",
+      "score": "6-4 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-07-18",
+      "opponent": "Aljaz Bedene",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-07-15",
+      "opponent": "Pedro Sousa",
+      "score": "1-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-07-01",
+      "opponent": "Alex Bolt",
+      "score": "2-6 7-5 12-10",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-06-15",
+      "opponent": "Joao Sousa",
+      "score": "6-7(6) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-06-10",
+      "opponent": "Lukas Lacko",
+      "score": "6-7(6) 7-6(5) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-06-10",
+      "opponent": "Thomas Fabbiano",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-06-10",
+      "opponent": "Nicolas Jarry",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-05-20",
+      "opponent": "Tristan Lamasine",
+      "score": "6-0 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-05-19",
+      "opponent": "Tristan Lamasine",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-05-18",
+      "opponent": "Antoine Hoang",
+      "score": "6-4 5-7 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-05-13",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-05-13",
+      "opponent": "Steve Johnson",
+      "score": "1-6 6-1 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-05-05",
+      "opponent": "Kamil Majchrzak",
+      "score": "6-1 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-05-04",
+      "opponent": "Steven Diez",
+      "score": "6-4 4-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-05-03",
+      "opponent": "Jiri Vesely",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-05-02",
+      "opponent": "Jiri Lehecka",
+      "score": "6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "sinner-jannik",
+      "date": "2019-05-01",
+      "opponent": "Dominik Koepfer",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    }
+  ]
+}

@@ -1,0 +1,2851 @@
+{
+  "source": "Cito API",
+  "player": "shelton-ben",
+  "updated_at": "2026-10-15T14:56:42.989Z",
+  "matches": [
+    {
+      "player": "shelton-ben",
+      "date": "2026-10-11",
+      "opponent": "Arthur Gea",
+      "score": "7-6 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-10-09",
+      "opponent": "Daniel Altmaier",
+      "score": "6-3 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-09-19",
+      "opponent": "Jakub Mensik",
+      "score": "5-7 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-09-18",
+      "opponent": "Jiri Lehecka",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-09-13",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 7-6 5-7 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-09-12",
+      "opponent": "Frances Tiafoe",
+      "score": "4-6 6-3 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-09-09",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-7 6-1 6-3 1-6 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-09-07",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "6-2 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-09-05",
+      "opponent": "Denis Shapovalov",
+      "score": "7-6 6-7 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-09-02",
+      "opponent": "Hubert Hurkacz",
+      "score": "6-3 5-7 7-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-08-31",
+      "opponent": "Tallon Griekspoor",
+      "score": "1-6 6-1 7-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-08-16",
+      "opponent": "Jaime Faria",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-08-14",
+      "opponent": "Brandon Nakashima",
+      "score": "6-3 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-08-13",
+      "opponent": "Learner Tien",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-08-11",
+      "opponent": "Jakub Mensik",
+      "score": "6-3 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-08-09",
+      "opponent": "Joao Fonseca",
+      "score": "6-3 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-08-07",
+      "opponent": "Zizou Bergs",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-08-05",
+      "opponent": "Jenson Brooksby",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-08-01",
+      "opponent": "Alejandro Tabilo",
+      "score": "4-6 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-07-30",
+      "opponent": "Ugo Humbert",
+      "score": "6-7 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-07-28",
+      "opponent": "Martin Damm",
+      "score": "6-4 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-06-30",
+      "opponent": "Otto Virtanen",
+      "score": "6-4 3-6 6-7 6-2 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-06-18",
+      "opponent": "Ethan Quinn",
+      "score": "6-4 5-7 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-06-17",
+      "opponent": "Lorenzo Sonego",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-06-14",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 2-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-06-13",
+      "opponent": "Jiri Lehecka",
+      "score": "6-7 7-6 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-06-12",
+      "opponent": "Sho Shimabukuro",
+      "score": "4-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-06-11",
+      "opponent": "Marcos Giron",
+      "score": "6-7 6-4 7-6",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-05-25",
+      "opponent": "Raphael Collignon",
+      "score": "6-4 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-05-25",
+      "opponent": "Daniel Merida Aguilar",
+      "score": "6-3 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-05-19",
+      "opponent": "Daniel Altmaier",
+      "score": "4-6 7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-05-18",
+      "opponent": "Marcos Giron",
+      "score": "6-3 4-6 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-05-06",
+      "opponent": "Nikoloz Basilashvili",
+      "score": "6-4 6-7(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-04-22",
+      "opponent": "Dino Prizmic",
+      "score": "6-4 6-7(4) 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-04-19",
+      "opponent": "Flavio Cobolli",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-04-18",
+      "opponent": "Alex Molcan",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-04-17",
+      "opponent": "Joao Fonseca",
+      "score": "6-3 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-04-15",
+      "opponent": "Alexander Blockx",
+      "score": "6-4 7-6(8)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-04-13",
+      "opponent": "Emilio Nava",
+      "score": "7-6(4) 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-04-03",
+      "opponent": "Thiago Agustin Tirante",
+      "score": "6-7(5) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-04-02",
+      "opponent": "Zhizhen Zhang",
+      "score": "7-6(5) 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-03-18",
+      "opponent": "Alexander Shevchenko",
+      "score": "6-7(3) 7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-03-04",
+      "opponent": "Learner Tien",
+      "score": "7-6(3) 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-03-04",
+      "opponent": "Reilly Opelka",
+      "score": "6-7(3) 7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-02-15",
+      "opponent": "Taylor Fritz",
+      "score": "3-6 6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-02-15",
+      "opponent": "Denis Shapovalov",
+      "score": "4-6 6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-02-14",
+      "opponent": "Miomir Kecmanovic",
+      "score": "5-7 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-02-13",
+      "opponent": "Adrian Mannarino",
+      "score": "7-6(2) 6-7(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-02-10",
+      "opponent": "Gabriel Diallo",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-01-28",
+      "opponent": "Jannik Sinner",
+      "score": "6-3 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-01-26",
+      "opponent": "Casper Ruud",
+      "score": "3-6 6-4 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-01-24",
+      "opponent": "Valentin Vacherot",
+      "score": "6-4 6-4 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-01-22",
+      "opponent": "Dane Sweeny",
+      "score": "6-3 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-01-20",
+      "opponent": "Ugo Humbert",
+      "score": "6-3 7-6(2) 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-01-16",
+      "opponent": "Sebastian Baez",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2026-01-13",
+      "opponent": "Francisco Comesana",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-11-09",
+      "opponent": "Felix Auger Aliassime",
+      "score": "4-6 7-6(7) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-11-09",
+      "opponent": "Alexander Zverev",
+      "score": "6-3 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-11-09",
+      "opponent": "Jannik Sinner",
+      "score": "6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-10-27",
+      "opponent": "Jannik Sinner",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-10-27",
+      "opponent": "Andrey Rublev",
+      "score": "7-6(6) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-10-27",
+      "opponent": "Flavio Cobolli",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-10-23",
+      "opponent": "Jaume Munar",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-10-21",
+      "opponent": "Kamil Majchrzak",
+      "score": "6-7(2) 6-3 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-10-01",
+      "opponent": "David Goffin",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-08-29",
+      "opponent": "Adrian Mannarino",
+      "score": "3-6 6-3 4-6 6-4 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-08-28",
+      "opponent": "Pablo Carreno Busta",
+      "score": "6-4 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-08-24",
+      "opponent": "Ignacio Buse",
+      "score": "6-3 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-08-16",
+      "opponent": "Alexander Zverev",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-08-14",
+      "opponent": "Jiri Lehecka",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-08-13",
+      "opponent": "Roberto Bautista Agut",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-08-11",
+      "opponent": "Camilo Ugo Carabelli",
+      "score": "6-3 3-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-27",
+      "opponent": "Karen Khachanov",
+      "score": "6-7(5) 6-4 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-27",
+      "opponent": "Taylor Fritz",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-27",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-27",
+      "opponent": "Alex De Minaur",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-27",
+      "opponent": "Flavio Cobolli",
+      "score": "6-4 4-6 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-27",
+      "opponent": "Brandon Nakashima",
+      "score": "6-7(8) 6-2 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-27",
+      "opponent": "Adrian Mannarino",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-26",
+      "opponent": "Frances Tiafoe",
+      "score": "7-6(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-24",
+      "opponent": "Gabriel Diallo",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-23",
+      "opponent": "Mackenzie Mcdonald",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-09",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(2) 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-07",
+      "opponent": "Lorenzo Sonego",
+      "score": "3-6 6-1 7-6(1) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-05",
+      "opponent": "Marton Fucsovics",
+      "score": "6-3 7-6(4) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-04",
+      "opponent": "Rinky Hijikata",
+      "score": "6-2 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-07-01",
+      "opponent": "Alex Bolt",
+      "score": "6-4 7-6(1) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-06-25",
+      "opponent": "Learner Tien",
+      "score": "6-4 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-06-17",
+      "opponent": "Arthur Rinderknech",
+      "score": "7-6(5) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-06-14",
+      "opponent": "Alexander Zverev",
+      "score": "7-6(8) 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-06-13",
+      "opponent": "Jiri Lehecka",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-06-11",
+      "opponent": "Pierre Hugues Herbert",
+      "score": "7-6(4) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-05-26",
+      "opponent": "Carlos Alcaraz",
+      "score": "7-6(8) 6-3 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-05-26",
+      "opponent": "Matteo Gigante",
+      "score": "6-3 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-05-26",
+      "opponent": "Hugo Gaston",
+      "score": "W/O",
+      "draw": "singles",
+      "status": "WALKOVER",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-05-26",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-4 4-6 3-6 6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-05-07",
+      "opponent": "Jaume Munar",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-04-23",
+      "opponent": "Jakub Mensik",
+      "score": "6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-04-23",
+      "opponent": "Mariano Navone",
+      "score": "4-6 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-04-20",
+      "opponent": "Alexander Zverev",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-04-19",
+      "opponent": "Francisco Cerundolo",
+      "score": "2-6 7-6(7) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-04-18",
+      "opponent": "Luciano Darderi",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-04-16",
+      "opponent": "Botic Van De Zandschulp",
+      "score": "7-6(1) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-04-14",
+      "opponent": "Borna Gojo",
+      "score": "4-6 7-6(6) 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-04-07",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "6-7(2) 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-03-19",
+      "opponent": "Coleman Wong",
+      "score": "7-6(3) 2-6 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-03-05",
+      "opponent": "Jack Draper",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-03-05",
+      "opponent": "Brandon Nakashima",
+      "score": "7-6(6) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-03-05",
+      "opponent": "Karen Khachanov",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-03-05",
+      "opponent": "Mariano Navone",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-02-27",
+      "opponent": "David Goffin",
+      "score": "7-6(3) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-02-25",
+      "opponent": "Flavio Cobolli",
+      "score": "7-6(4) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-02-06",
+      "opponent": "Jaume Munar",
+      "score": "6-2 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-02-05",
+      "opponent": "Aleksandar Vukic",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-01-24",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(2) 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-01-22",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-4 7-5 4-6 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-01-20",
+      "opponent": "Gael Monfils",
+      "score": "7-6(3) 6-7(3) 7-6(2) 1-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-01-18",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-3 3-6 6-4 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-01-16",
+      "opponent": "Pablo Carreno Busta",
+      "score": "6-3 6-3 6-7(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-01-14",
+      "opponent": "Brandon Nakashima",
+      "score": "7-6(3) 7-5 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2025-01-08",
+      "opponent": "Jakub Mensik",
+      "score": "7-6(2) 4-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-11-21",
+      "opponent": "Thanasi Kokkinakis",
+      "score": "6-1 4-6 7-6(14)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-10-28",
+      "opponent": "Arthur Cazaux",
+      "score": "6-3 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-10-28",
+      "opponent": "Corentin Moutet",
+      "score": "6-3 6-7(8) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-10-27",
+      "opponent": "Giovanni Mpetshi Perricard",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-10-26",
+      "opponent": "Arthur Fils",
+      "score": "6-3 7-6(9)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-10-25",
+      "opponent": "Andrey Rublev",
+      "score": "7-5 6-7(3) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-10-24",
+      "opponent": "Stan Wawrinka",
+      "score": "7-6(2) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-10-22",
+      "opponent": "Tomas Martin Etcheverry",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-10-02",
+      "opponent": "Jannik Sinner",
+      "score": "6-4 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-10-02",
+      "opponent": "Roberto Carballes Baena",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-10-02",
+      "opponent": "Denis Shapovalov",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-09-29",
+      "opponent": "Arthur Fils",
+      "score": "7-5 6-7(5) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-09-27",
+      "opponent": "Mariano Navone",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-09-26",
+      "opponent": "Reilly Opelka",
+      "score": "3-6 6-1 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-09-20",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-09-20",
+      "opponent": "Daniil Medvedev",
+      "score": "6-7(6) 7-5 [10-7]",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-30",
+      "opponent": "Frances Tiafoe",
+      "score": "4-6 7-5 6-7(5) 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-28",
+      "opponent": "Roberto Bautista Agut",
+      "score": "6-3 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-26",
+      "opponent": "Dominic Thiem",
+      "score": "6-4 6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-12",
+      "opponent": "Alexander Zverev",
+      "score": "3-6 7-6(3) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-12",
+      "opponent": "Fabian Marozsan",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-12",
+      "opponent": "Tomas Martin Etcheverry",
+      "score": "6-7(6) 7-6(7) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-12",
+      "opponent": "Reilly Opelka",
+      "score": "7-6(3) 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-05",
+      "opponent": "Alexei Popyrin",
+      "score": "6-4 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-05",
+      "opponent": "Alexander Bublik",
+      "score": "7-6(4) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-04",
+      "opponent": "Flavio Cobolli",
+      "score": "4-6 7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-02",
+      "opponent": "Denis Shapovalov",
+      "score": "7-6(5) 6-6 DEF",
+      "draw": "singles",
+      "status": "DEFAULT",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-01",
+      "opponent": "Brandon Nakashima",
+      "score": "7-6(5) 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-08-01",
+      "opponent": "Radu Albot",
+      "score": "6-4 6-7(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-07-26",
+      "opponent": "Juncheng Shang",
+      "score": "7-6(6) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-07-07",
+      "opponent": "Jannik Sinner",
+      "score": "6-2 6-4 7-6(9)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-07-06",
+      "opponent": "Denis Shapovalov",
+      "score": "6-7(4) 6-2 6-4 4-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-07-04",
+      "opponent": "Lloyd Harris",
+      "score": "4-6 7-6(5) 6-7(5) 6-3 7-6(7)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-07-02",
+      "opponent": "Mattia Bellucci",
+      "score": "4-6 6-3 3-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-06-27",
+      "opponent": "Paul Jubb",
+      "score": "6-3 3-6 7-6(8)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-06-26",
+      "opponent": "Rinky Hijikata",
+      "score": "6-4 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-06-18",
+      "opponent": "Giovanni Mpetshi Perricard",
+      "score": "6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-06-13",
+      "opponent": "James Duckworth",
+      "score": "7-6(5) 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-05-27",
+      "opponent": "Felix Auger Aliassime",
+      "score": "6-4 6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-05-27",
+      "opponent": "Kei Nishikori",
+      "score": "7-6(7) 6-4 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-05-27",
+      "opponent": "Hugo Gaston",
+      "score": "3-6 6-3 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-05-21",
+      "opponent": "Flavio Cobolli",
+      "score": "4-6 7-6(1) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-05-06",
+      "opponent": "Zhizhen Zhang",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-05-06",
+      "opponent": "Pavel Kotov",
+      "score": "4-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-04-22",
+      "opponent": "Alexander Bublik",
+      "score": "3-6 7-6(2) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-04-22",
+      "opponent": "Tomas Machac",
+      "score": "6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-04-07",
+      "opponent": "Frances Tiafoe",
+      "score": "7-5 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-04-06",
+      "opponent": "Tomas Martin Etcheverry",
+      "score": "6-7(4) 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-04-05",
+      "opponent": "Brandon Nakashima",
+      "score": "7-5 7-6(9)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-04-04",
+      "opponent": "Zizou Bergs",
+      "score": "3-6 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-03-18",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-4 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-03-18",
+      "opponent": "Martin Landaluce",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-03-04",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(4) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-03-04",
+      "opponent": "Francisco Cerundolo",
+      "score": "7-6(5) 3-6 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-03-04",
+      "opponent": "Jakub Mensik",
+      "score": "4-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-03-01",
+      "opponent": "Casper Ruud",
+      "score": "6-7(7) 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-02-29",
+      "opponent": "Matteo Arnaldi",
+      "score": "7-6(1) 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-02-27",
+      "opponent": "Daniel Evans",
+      "score": "2-6 7-5 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-02-10",
+      "opponent": "Tommy Paul",
+      "score": "6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-02-09",
+      "opponent": "Jordan Thompson",
+      "score": "6-7(2) 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-02-08",
+      "opponent": "Michael Mmoh",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-01-19",
+      "opponent": "Adrian Mannarino",
+      "score": "7-6(4) 1-6 6-7(2) 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-01-17",
+      "opponent": "Christopher Oconnell",
+      "score": "6-4 6-1 3-6 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-01-15",
+      "opponent": "Roberto Bautista Agut",
+      "score": "6-2 7-6(2) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-01-12",
+      "opponent": "Taro Daniel",
+      "score": "7-5 7-6(9)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-01-11",
+      "opponent": "Roberto Carballes Baena",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-01-10",
+      "opponent": "Fabian Marozsan",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2024-01-01",
+      "opponent": "Roman Safiullin",
+      "score": "6-3 6-7(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-30",
+      "opponent": "Alejandro Davidovich Fokina",
+      "score": "7-6(4) 5-7 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-25",
+      "opponent": "Jannik Sinner",
+      "score": "7-6(2) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-22",
+      "opponent": "Aslan Karatsev",
+      "score": "7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-21",
+      "opponent": "Marcos Giron",
+      "score": "6-7(2) 7-6(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-20",
+      "opponent": "Tommy Paul",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-18",
+      "opponent": "Jordan Thompson",
+      "score": "6-7(5) 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-17",
+      "opponent": "Taro Daniel",
+      "score": "3-6 6-4 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-02",
+      "opponent": "Sebastian Korda",
+      "score": "6-7(10) 6-2 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-02",
+      "opponent": "Jannik Sinner",
+      "score": "2-6 6-3 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-02",
+      "opponent": "Roman Safiullin",
+      "score": "3-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-10-02",
+      "opponent": "Jaume Munar",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-09-08",
+      "opponent": "Novak Djokovic",
+      "score": "6-3 6-2 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-09-06",
+      "opponent": "Frances Tiafoe",
+      "score": "6-2 3-6 7-6(7) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-09-03",
+      "opponent": "Tommy Paul",
+      "score": "6-4 6-3 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-09-01",
+      "opponent": "Aslan Karatsev",
+      "score": "6-4 3-6 6-2 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-08-30",
+      "opponent": "Dominic Thiem",
+      "score": "7-6(1) 1-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-08-28",
+      "opponent": "Pedro Cachin",
+      "score": "1-6 6-3 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-08-14",
+      "opponent": "Stefanos Tsitsipas",
+      "score": "7-6(3) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-08-14",
+      "opponent": "Christopher Eubanks",
+      "score": "5-7 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-08-07",
+      "opponent": "Carlos Alcaraz",
+      "score": "6-3 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-08-07",
+      "opponent": "Bernabe Zapata Miralles",
+      "score": "7-6(1) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-08-01",
+      "opponent": "Juncheng Shang",
+      "score": "6-2 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-07-26",
+      "opponent": "Juncheng Shang",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-07-06",
+      "opponent": "Laslo Djere",
+      "score": "3-6 6-3 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-07-05",
+      "opponent": "Taro Daniel",
+      "score": "6-4 6-3 3-6 4-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-06-28",
+      "opponent": "Christopher Eubanks",
+      "score": "6-7(4) 6-4 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-06-21",
+      "opponent": "Lorenzo Musetti",
+      "score": "6-4 4-6 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-06-19",
+      "opponent": "J J Wolf",
+      "score": "7-6(4) 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-05-29",
+      "opponent": "Lorenzo Sonego",
+      "score": "6-4 3-6 6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-05-21",
+      "opponent": "Marco Cecchinato",
+      "score": "7-5 2-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-05-08",
+      "opponent": "Alexander Bublik",
+      "score": "6-4 1-6 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-05-06",
+      "opponent": "Laslo Djere",
+      "score": "3-6 6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-05-05",
+      "opponent": "Giulio Zeppieri",
+      "score": "6-4 4-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-05-04",
+      "opponent": "Fabian Marozsan",
+      "score": "6-4 7-6(6)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-04-24",
+      "opponent": "Jan Lennard Struff",
+      "score": "4-6 7-6(4) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-04-18",
+      "opponent": "Casper Ruud",
+      "score": "6-2 7-6(1)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-04-17",
+      "opponent": "Mackenzie Mcdonald",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-04-10",
+      "opponent": "Grigor Dimitrov",
+      "score": "6-1 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-04-06",
+      "opponent": "Dominic Thiem",
+      "score": "6-2 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-04-04",
+      "opponent": "Constant Lestienne",
+      "score": "7-5 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-03-20",
+      "opponent": "Adrian Mannarino",
+      "score": "6-4 3-6 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-03-06",
+      "opponent": "Taylor Fritz",
+      "score": "4-6 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-03-06",
+      "opponent": "Fabio Fognini",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-02-28",
+      "opponent": "Holger Rune",
+      "score": "6-7(7) 6-4 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-02-15",
+      "opponent": "Marcos Giron",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-01-25",
+      "opponent": "Tommy Paul",
+      "score": "7-6(6) 6-3 5-7 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-01-23",
+      "opponent": "J J Wolf",
+      "score": "6-7(5) 6-2 6-7(4) 7-6(4) 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-01-21",
+      "opponent": "Alexei Popyrin",
+      "score": "6-3 7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-01-19",
+      "opponent": "Nicolas Jarry",
+      "score": "7-6(3) 7-6(3) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-01-17",
+      "opponent": "Zhizhen Zhang",
+      "score": "4-6 6-3 6-2 2-6 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-01-11",
+      "opponent": "Quentin Halys",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2023-01-10",
+      "opponent": "Sebastian Baez",
+      "score": "7-6(1) 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-12-31",
+      "opponent": "James Duckworth",
+      "score": "6-3 7-6(2)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-20",
+      "opponent": "Aleksandar Vukic",
+      "score": "0-6 6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-19",
+      "opponent": "Aleksandar Kovacevic",
+      "score": "6-7(3) 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-18",
+      "opponent": "Prajnesh Gunneswaran",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-17",
+      "opponent": "Ethan Quinn",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-15",
+      "opponent": "Karlis Ozolins",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-13",
+      "opponent": "Christopher Eubanks",
+      "score": "6-3 1-6 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-12",
+      "opponent": "Enzo Couacaud",
+      "score": "6-7(3) 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-11",
+      "opponent": "Aleksandar Kovacevic",
+      "score": "7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-10",
+      "opponent": "Mitchell Krueger",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-08",
+      "opponent": "Keegan Smith",
+      "score": "4-6 6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-06",
+      "opponent": "Christopher Eubanks",
+      "score": "7-6(4) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-05",
+      "opponent": "Paul Jubb",
+      "score": "7-6(6) 3-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-04",
+      "opponent": "Lucas Gerch",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-03",
+      "opponent": "Brandon Holt",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-11-01",
+      "opponent": "Chris Rodesch",
+      "score": "6-4 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-10-27",
+      "opponent": "Ernesto Escobedo",
+      "score": "6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-10-26",
+      "opponent": "Valentin Vacherot",
+      "score": "6-7(4) 7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-10-14",
+      "opponent": "Gabriel Diallo",
+      "score": "5-7 7-6(5) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-10-11",
+      "opponent": "Aidan Mayo",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-10-09",
+      "opponent": "Zachary Svajda",
+      "score": "2-6 6-2 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-10-09",
+      "opponent": "Denis Kudla",
+      "score": "3-6 6-4 3-0 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-10-08",
+      "opponent": "Mitchell Krueger",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-10-05",
+      "opponent": "Sam Riffice",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-10-04",
+      "opponent": "Roberto Quiroz",
+      "score": "3-6 6-2 7-6(4)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-08-29",
+      "opponent": "Nuno Borges",
+      "score": "7-6(6) 3-6 7-6(5) 6-7(8) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-08-15",
+      "opponent": "Cameron Norrie",
+      "score": "6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-08-15",
+      "opponent": "Casper Ruud",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-08-15",
+      "opponent": "Lorenzo Sonego",
+      "score": "7-6(5) 3-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-08-14",
+      "opponent": "Roman Safiullin",
+      "score": "6-3 4-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-08-13",
+      "opponent": "Gijs Brouwer",
+      "score": "6-3 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-08-12",
+      "opponent": "Jordan Thompson",
+      "score": "7-6(12) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-08-11",
+      "opponent": "Billy Harris",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-08-10",
+      "opponent": "Dmitry Popko",
+      "score": "6-0 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-29",
+      "opponent": "John Isner",
+      "score": "7-6(8) 4-6 7-6(3)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-26",
+      "opponent": "Ramkumar Ramanathan",
+      "score": "6-2 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-23",
+      "opponent": "Aleksandar Kovacevic",
+      "score": "6-4 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-22",
+      "opponent": "Max Purcell",
+      "score": "7-6(5) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-21",
+      "opponent": "Tim Van Rijthoven",
+      "score": "6-7(7) 1-2 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-20",
+      "opponent": "Rinky Hijikata",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-17",
+      "opponent": "Yibing Wu",
+      "score": "7-5 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-16",
+      "opponent": "Yasutaka Uchiyama",
+      "score": "6-1 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-15",
+      "opponent": "Aleksandar Kovacevic",
+      "score": "7-6(2) 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-14",
+      "opponent": "Alex Rybakov",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-12",
+      "opponent": "Govind Nanda",
+      "score": "4-6 6-2 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-11",
+      "opponent": "Liam Draxl",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-07-10",
+      "opponent": "Toshihide Matsui",
+      "score": "6-0 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-06-07",
+      "opponent": "Rinky Hijikata",
+      "score": "6-3 7-6(8)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-06-04",
+      "opponent": "Jason Kubler",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-06-03",
+      "opponent": "Roman Andres Burruchaga",
+      "score": "7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-06-03",
+      "opponent": "Emilio Gomez",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2022-06-01",
+      "opponent": "Christian Harrison",
+      "score": "7-6(4) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-11-19",
+      "opponent": "Yosuke Watanuki",
+      "score": "6-2 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-11-18",
+      "opponent": "Pedja Krstin",
+      "score": "4-6 6-0 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-11-16",
+      "opponent": "Blaz Rola",
+      "score": "3-6 6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-11-15",
+      "opponent": "Hunter Heck",
+      "score": "6-3 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-11-14",
+      "opponent": "Govind Nanda",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-10-25",
+      "opponent": "Vasil Kirkov",
+      "score": "7-6(3) 2-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-10-25",
+      "opponent": "Duarte Vale",
+      "score": "6-3 3-6 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-10-25",
+      "opponent": "Thomas Fancutt",
+      "score": "6-1 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-10-18",
+      "opponent": "Liam Draxl",
+      "score": "6-1 6-7(3) 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-10-18",
+      "opponent": "Blaise Bicknell",
+      "score": "3-6 6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-10-18",
+      "opponent": "Bruno Kuzuhara",
+      "score": "7-5 7-6(9)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-08-30",
+      "opponent": "Michael Mmoh",
+      "score": "7-6(3) 7-6(5)",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-08-26",
+      "opponent": "Botic Van De Zandschulp",
+      "score": "3-6 7-5 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-07-26",
+      "opponent": "Gijs Brouwer",
+      "score": "7-6(4) 6-3",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-07-26",
+      "opponent": "Yu Hsiou Hsu",
+      "score": "6-4 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-07-26",
+      "opponent": "Paul Jubb",
+      "score": "6-1 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-07-26",
+      "opponent": "Christian Langmo",
+      "score": "6-4 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-07-26",
+      "opponent": "Yunseong Chung",
+      "score": "7-5 6-0",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-07-19",
+      "opponent": "Aleksandar Kovacevic",
+      "score": "6-3 6-4",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-07-18",
+      "opponent": "Michail Pervolarakis",
+      "score": "6-3 6-2",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-06-28",
+      "opponent": "Stefan Kozlov",
+      "score": "7-5 6-1",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-06-28",
+      "opponent": "Khololwam Montsi",
+      "score": "4-6 6-2 3-1 RET",
+      "draw": "singles",
+      "status": "RETIREMENT",
+      "source": "Cito API"
+    },
+    {
+      "player": "shelton-ben",
+      "date": "2021-06-21",
+      "opponent": "Khololwam Montsi",
+      "score": "6-4 4-6 7-5",
+      "draw": "singles",
+      "status": "COMPLETED",
+      "source": "Cito API"
+    }
+  ]
+}
