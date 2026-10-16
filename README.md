@@ -30,7 +30,7 @@ With no slugs, the script refreshes all tracked players. It writes per-player fi
 
 ## Data and calculation rules
 
-The provided 18 player links are tracked. Each set's two game counts are summed across the match; `6-3 6-4` is 19 games, or odd. Matches are sorted newest first, doubles and abandoned/retired/cancelled results are excluded, and a match is skipped if neither side has 6 or more games in the last set. The board counts parity over the latest 20 qualifying results. Strike is the number of consecutive results with the latest match's parity.
+The provided 18 player links are tracked. Only records with status `COMPLETED` are considered for calculation. Each set's two game counts are summed across the match; `6-3 6-4` is 19 games, or odd. Matches are sorted newest first, doubles are excluded, and a match is skipped if neither side has 6 or more games in the last set. The board counts parity over the latest 20 qualifying results. Strike is the number of consecutive results with the latest match's parity.
 
 The live dashboard API key is read only by the BGWalk server. The file-generation script reads the key from its local environment or the GitHub Actions runner. Published JSON contains only match results and the refresh time. Cito requires attribution for displayed data; the page links to Cito. Review the provider's current coverage and data terms for your intended use.
 

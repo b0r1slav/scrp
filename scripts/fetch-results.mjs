@@ -72,7 +72,7 @@ async function fetchPlayer(slug, name) {
       status: match.status || match.outcome || 'completed',
       source: 'Cito API',
     };
-  }).filter(match => match.score);
+  }).filter(match => match.score && String(match.status).trim().toUpperCase() === 'COMPLETED');
 
   if (!records.length) throw new Error(`Cito returned no scored match records for ${name}`);
   return [slug, records];
