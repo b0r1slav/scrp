@@ -1,6 +1,6 @@
 # Baseline — ATP parity tracker
 
-A static GitHub Pages dashboard for even/odd game totals across each player's latest 20 completed ATP singles matches. The page opens with demo data; selected players load their own published JSON file on demand. On localhost only, you can enter a Cito API key to request selected players directly. The key stays in tab memory and is not saved. The deployed site uses published per-player files, so it never asks visitors for or sends a Cito key.
+A static GitHub Pages dashboard for even/odd game totals across each player's latest 20 completed ATP singles matches. The page opens with demo data. When you select players and click **Fetch selected**, the page requests fresh match data from the BGWalk API server, which calls Cito using a server-side API key.
 
 ## Local test
 
@@ -12,7 +12,7 @@ node scripts/fetch-results.mjs
 python3 -m http.server 8000
 ```
 
-Open `http://localhost:8000`. Keep the key in your shell environment; never put it in `app.js`, `index.html`, a checked-in `.env` file, or a browser request. The generated `data/results.json` contains match results, not the key.
+Open `http://localhost:8000`. The dashboard calls `https://summertime-sadness.onrender.com/api/cito/players/<slug>/matches`; configure `CITO_API_KEY` on that API server. Never put the key in the GitHub Pages app or a browser request. The `fetch-results.mjs` script remains available for scheduled data-file generation.
 
 ## GitHub Pages and scheduled refresh
 
@@ -20,7 +20,7 @@ Open `http://localhost:8000`. Keep the key in your shell environment; never put 
 2. In **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**.
 3. Push this workflow and site to `main`. The first push publishes the site using demo rows; then go to **Actions → Publish ATP parity board → Run workflow** to fetch real results and publish them.
 
-The page requests `data/players/<slug>.json` only when you choose a player and click **Fetch selected**. If a selected file has not been generated yet, publish it by passing the chosen player slugs to the fetch script. Each player uses two Cito requests (one player search and one match-log request), keeping a five-player refresh to 10 requests:
+The production dashboard calls the Cito proxy endpoint on the BGWalk API server when you choose a player and click **Fetch selected**. The endpoint is `GET /api/cito/players/<slug>/matches`; the server uses its `CITO_API_KEY` environment variable and caches successful responses for five minutes. No key is sent to GitHub Pages visitors. The separate file-generation script can still refresh the published JSON data; each player uses two Cito requests (one player search and one match-log request):
 
 ```sh
 node scripts/fetch-results.mjs sinner-jannik alcaraz-garfia-carlos shelton-ben
@@ -32,7 +32,7 @@ With no slugs, the script refreshes all tracked players. It writes per-player fi
 
 The provided 18 player links are tracked. Each set's two game counts are summed across the match; `6-3 6-4` is 19 games, or odd. Matches are sorted newest first, doubles and abandoned/retired/cancelled results are excluded, and a match is skipped if neither side has 6 or more games in the last set. The board counts parity over the latest 20 qualifying results. Strike is the number of consecutive results with the latest match's parity.
 
-The API key is read only by the local Node script or the GitHub Actions runner. The published JSON contains only match results and the refresh time. Cito requires attribution for displayed data; the page links to Cito. Review the provider's current coverage and data terms for your intended use.
+The live dashboard API key is read only by the BGWalk server. The file-generation script reads the key from its local environment or the GitHub Actions runner. Published JSON contains only match results and the refresh time. Cito requires attribution for displayed data; the page links to Cito. Review the provider's current coverage and data terms for your intended use.
 
 ## Manual import
 
