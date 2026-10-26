@@ -31,8 +31,6 @@ jobs:
       - name: Refresh tennis results
         if: github.event_name != 'push'
         run: node scripts/fetch-results.mjs
-        env:
-          CITO_API_KEY: ${{ secrets.CITO_API_KEY }}
 
       - name: Save refreshed results
         if: github.event_name != 'push'
