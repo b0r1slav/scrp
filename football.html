@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#f4f5f1" />
+  <title>Baseline — football parity tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="index.html" aria-label="Baseline home"><span class="brand-mark"><i></i><i></i><i></i></span><span>baseline<span class="brand-dot">.</span></span></a>
+      <div class="side-label">WORKSPACE</div>
+      <a class="nav-item" href="index.html"><span class="nav-icon">▦</span> Tennis board</a>
+      <a class="nav-item active" href="football.html"><span class="nav-icon">⚽</span> Football board <span class="nav-count" id="side-count">78</span></a>
+      <div class="side-label tour-label">COMPETITIONS</div>
+      <div class="league-list"><span>🏴 Premier League</span><span>🇪🇸 La Liga</span><span>🇩🇪 Bundesliga</span><span>🇮🇹 Serie A</span></div>
+      <div class="sidebar-bottom"><div class="sync-dot"></div><span>Local data only</span><button class="help-button" id="help-button" aria-label="Help">?</button></div>
+    </aside>
+    <main class="main">
+      <header class="topbar"><div class="breadcrumbs">Workspace <span>/</span> Football <span>/</span> <b>All teams</b></div><div class="top-actions"><span class="live-tag"><i></i> MATCH TRACKER</span><a class="avatar avatar-link" href="index.html" aria-label="Tennis board">T</a></div></header>
+      <section class="page-head"><div><div class="eyebrow">FOOTBALL <span>·</span> TOP FLIGHTS</div><h1>Even / odd streaks</h1><p class="subtitle">Season-to-date parity and streaks for every team across four leagues.</p></div><div class="head-actions"><button class="button button-quiet" id="refresh-data">↻ <span>Refresh matches</span></button><button class="button button-primary" id="import-button"><span>＋</span> Import results</button></div></section>
+      <div id="fetch-message" class="football-fetch-message" role="status"></div>
+      <section class="summary-grid" aria-label="Summary">
+        <article class="summary-card"><div class="summary-label">TEAMS TRACKED <span>↗</span></div><div class="summary-value" id="team-total">—</div><div class="summary-note">Premier League · La Liga · Bundesliga · Serie A</div><div class="summary-icon icon-court">⚽</div></article>
+        <article class="summary-card"><div class="summary-label">LONGEST STREAK <span>↗</span></div><div class="summary-value"><span id="streak-total">—</span><small>matches</small></div><div class="summary-note"><span class="note-dot even-dot"></span>Current even or odd run</div><div class="summary-icon icon-streak">⌁</div></article>
+        <article class="summary-card"><div class="summary-label">LATEST EVEN <span>↗</span></div><div class="summary-value"><span id="latest-even">—</span></div><div class="summary-note">Teams whose latest match was even</div><div class="summary-icon icon-parity">◐</div></article>
+        <article class="summary-card"><div class="summary-label">DATA STATUS <span>↗</span></div><div class="summary-value status-value" id="data-status">EMPTY</div><div class="summary-note" id="updated-note">Import completed match results</div><div class="summary-icon icon-data">⌘</div></article>
+      </section>
+      <section class="board-panel">
+        <div class="board-toolbar"><div class="board-title"><h2>All teams</h2><span class="row-count" id="row-count">LOADING</span></div><div class="toolbar-controls"><div class="player-picker" id="team-picker"><button class="filter-button" id="team-picker-button" type="button"><span id="team-picker-label">All teams</span><b>⌄</b></button><div class="player-picker-menu"><input id="team-picker-search" type="search" placeholder="Search teams…" aria-label="Search teams"/><div class="team-picker-actions"><button id="select-all" type="button">Select all</button><button id="clear-selection" type="button">Clear</button></div><div id="team-picker-options"></div></div></div><label class="search-box"><span>⌕</span><input id="search" type="search" placeholder="Find a team..." /></label><div class="filter-wrap"><button class="filter-button" id="filter-button">☷ <span id="filter-label">All teams</span><b>⌄</b></button><div class="filter-menu hidden" id="filter-menu"><button data-filter="all">All teams</button><button data-filter="even">Latest even</button><button data-filter="odd">Latest odd</button></div></div><button class="icon-button" id="sort-button" title="Sort by streak">↕</button></div></div>
+        <div class="table-scroll"><table><thead><tr><th>RANK</th><th>TEAM</th><th>LEAGUE</th><th>STRIKE</th><th>EVEN</th><th>ODD</th><th>LATEST</th><th>LAST 50 MATCHES</th></tr></thead><tbody id="team-rows"></tbody></table></div>
+        <div class="table-footer"><span id="showing">Loading teams…</span><span class="foot-legend"><i class="legend-even"></i> Even <i class="legend-odd"></i> Odd</span></div>
+      </section>
+      <footer><span>BASELINE <b>·</b> FOOTBALL MATCH PARITY TRACKER</span><span>Match data: <a href="https://www.football-data.org/" target="_blank" rel="noopener">football-data.org</a> · combined goals determine parity.</span></footer>
+    </main>
+  </div>
+  <div class="modal-backdrop hidden" id="import-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title"><div class="modal"><button class="modal-close" id="close-modal" aria-label="Close">×</button><div class="eyebrow">UPDATE YOUR BOARD</div><h2 id="modal-title">Import match results</h2><p>Upload a CSV or JSON file. Results are stored in this browser only.</p><div class="dropzone" id="dropzone"><div class="upload-icon">↑</div><strong>Drop a file here or <label for="file-input">browse</label></strong><span>CSV or JSON · up to 5 MB</span><input id="file-input" type="file" accept=".csv,.json,text/csv,application/json" /></div><div class="format-help"><b>CSV columns</b><code>date, league, home_team, away_team, home_goals, away_goals, status</code><span>Example: <code>2026-10-12,Premier League,Arsenal,Chelsea,2,1,completed</code></span><span>Use the official team names shown in the dropdown. Matches marked completed (or FT) are counted.</span></div><div class="modal-actions"><button class="button button-quiet" id="download-template">Download template</button><button class="button button-primary" id="choose-file">Choose file</button></div><div class="import-message" id="import-message"></div></div></div>
+  <div class="modal-backdrop hidden" id="help-modal" role="dialog" aria-modal="true"><div class="modal help-modal"><button class="modal-close" data-close-help aria-label="Close">×</button><div class="eyebrow">HOW IT WORKS</div><h2>Reading the streaks</h2><ul><li>Each completed league match is counted for both teams.</li><li>Parity is based on combined goals: a 2–1 match has 3 total goals, so it is odd.</li><li>Strike counts consecutive matches with the same parity as the team's latest match.</li><li>Counts are season-to-date, up to the team's latest 50 completed matches.</li><li>League results come from football-data.org and refreshes are cached for 15 minutes.</li></ul><p class="caveat">Set the FOOTBALL_DATA_TOKEN environment variable on the server to enable live data. The free API tier provides current season data.</p><button class="button button-primary" data-close-help>Got it</button></div></div>
+  <script src="football.js"></script>
+</body>
+</html>

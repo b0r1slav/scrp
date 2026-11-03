@@ -1,0 +1,4 @@
+name = "raspy-frog-d6b6"
+main = "workers/football-data.js"
+compatibility_date = "2026-11-03"
+workers_dev = true
