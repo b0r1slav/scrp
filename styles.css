@@ -48,3 +48,4 @@
   .sidebar.mobile-nav-open .sidebar-bottom{margin-top:16px}
   .sidebar.mobile-nav-open .league-list{display:flex;flex-direction:column}
 }
+.row-remove{width:19px;height:19px;margin-left:5px;padding:0;border:0;border-radius:4px;background:transparent;color:#a7b0aa;font:14px/19px var(--sans);cursor:pointer;vertical-align:middle}.row-remove:hover,.row-remove:focus-visible{background:#f8e9e6;color:#a34d42;outline:none}
