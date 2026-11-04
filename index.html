@@ -14,6 +14,8 @@
   <div class="shell">
     <aside class="sidebar">
       <a class="brand" href="#" aria-label="Baseline home"><span class="brand-mark"><i></i><i></i><i></i></span><span>baseline<span class="brand-dot">.</span></span></a>
+      <button class="mobile-nav-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="primary-navigation"><span></span><span></span><span></span></button>
+      <div class="sidebar-content" id="primary-navigation">
       <div class="side-label">WORKSPACE</div>
       <button class="nav-item active"><span class="nav-icon">▦</span> Streak board <span class="nav-count" id="side-count">18</span></button>
       <a class="nav-item football-nav" href="football.html"><span class="nav-icon">⚽</span> Football board</a>
@@ -21,6 +23,7 @@
       <div class="side-label tour-label">TOUR</div>
       <button class="tour-select"><span class="tour-ball">●</span> ATP Singles <span class="chevron">⌄</span></button>
       <div class="sidebar-bottom"><div class="sync-dot"></div><span>Local data only</span><button class="help-button" id="help-button" aria-label="Help">?</button></div>
+      </div>
     </aside>
 
     <main class="main">
@@ -35,7 +38,7 @@
       </section>
 
       <section class="board-panel">
-        <div class="board-toolbar"><div class="board-title"><h2>Player board</h2><span class="row-count" id="row-count">18 PLAYERS</span></div><div class="toolbar-controls"><div class="player-picker" id="player-picker"><button class="filter-button" id="player-picker-button" type="button"><span id="player-picker-label">Select players</span><b>⌄</b></button><div class="player-picker-menu"><input id="player-picker-search" type="search" placeholder="Search players…" aria-label="Search players"/><div id="player-picker-options"></div></div></div><button class="button button-primary fetch-button" id="fetch-selected" type="button">Fetch selected</button><label class="search-box"><span>⌕</span><input id="search" type="search" placeholder="Find a player..." /></label><div class="filter-wrap"><button class="filter-button" id="filter-button">☷ <span id="filter-label">All players</span><b>⌄</b></button><div class="filter-menu hidden" id="filter-menu"><button data-filter="all">All players</button><button data-filter="even">Latest even</button><button data-filter="odd">Latest odd</button></div></div><button class="icon-button" id="sort-button" title="Sort by streak">↕</button></div><div id="fetch-message" class="fetch-message" role="status"></div></div>
+        <div class="board-toolbar"><div class="board-title"><h2>Player board</h2><span class="row-count" id="row-count">18 PLAYERS</span></div><div class="toolbar-controls"><div class="player-picker" id="player-picker"><button class="filter-button" id="player-picker-button" type="button"><span id="player-picker-label">Select players</span><b>⌄</b></button><div class="player-picker-menu"><input id="player-picker-search" type="search" placeholder="Search players…" aria-label="Search players"/><div id="player-picker-options"></div></div></div><button class="button button-primary fetch-button" id="fetch-selected" type="button">Fetch selected</button><label class="search-box"><span>⌕</span><input id="search" type="search" placeholder="Find a player..." /></label><div class="filter-wrap"><button class="filter-button" id="filter-button">☷ <span id="filter-label">All players</span><b>⌄</b></button><div class="filter-menu hidden" id="filter-menu"><button data-filter="all">All players</button><button data-filter="even">Latest even</button><button data-filter="odd">Latest odd</button></div></div><button class="icon-button" id="sort-button" title="Sort by streak">↕</button><button class="button button-quiet print-button" id="print-table" type="button">⎙ Print / PDF</button></div><div id="fetch-message" class="fetch-message" role="status"></div></div>
         <div class="table-scroll"><table><thead><tr><th>RANK <span>↕</span></th><th>PLAYER</th><th>STRIKE</th><th>EVEN <span>↕</span></th><th>ODD <span>↕</span></th><th>LATEST</th><th>LAST 50 RESULTS</th><th></th></tr></thead><tbody id="player-rows"></tbody></table></div>
         <div class="table-footer"><span id="showing">Showing 18 of 18 players</span><span class="foot-legend"><i class="legend-even"></i> Even <i class="legend-odd"></i> Odd</span></div>
       </section>
@@ -46,6 +49,7 @@
   <div class="modal-backdrop hidden" id="import-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title"><div class="modal"><button class="modal-close" id="close-modal" aria-label="Close">×</button><div class="eyebrow">UPDATE YOUR BOARD</div><h2 id="modal-title">Import match results</h2><p>Upload a CSV or JSON file with match scores. Imported data is saved in this browser only.</p><div class="dropzone" id="dropzone"><div class="upload-icon">↑</div><strong>Drop a file here or <label for="file-input">browse</label></strong><span>CSV or JSON · up to 5 MB</span><input id="file-input" type="file" accept=".csv,.json,text/csv,application/json" /></div><div class="format-help"><b>CSV columns</b><code>player, date, opponent, score, draw, status</code><span>Example: <code>sinner-jannik,2026-10-12,Player Name,"6-3 6-4",singles,completed</code></span><span>JSON may be an array of matches or <code>{"player-slug": [matches...]}</code>.</span></div><div class="modal-actions"><button class="button button-quiet" id="download-template">Download template</button><button class="button button-primary" id="choose-file">Choose file</button></div><div class="import-message" id="import-message"></div></div></div>
 
   <div class="modal-backdrop hidden" id="help-modal" role="dialog" aria-modal="true"><div class="modal help-modal"><button class="modal-close" data-close-help aria-label="Close">×</button><div class="eyebrow">HOW IT WORKS</div><h2>Reading the streaks</h2><ul><li>Each set score is added together. <code>6-3 6-4</code> is 19 games: odd.</li><li><b>Strike</b> counts consecutive results of the latest match’s parity.</li><li>Only completed singles matches are counted, up to the latest 50.</li><li>Retirements / abandoned matches with a final set below 6 games are skipped.</li></ul><p class="caveat">The shown rows are sample data until you import match results. Use a source you have permission to reuse.</p><button class="button button-primary" data-close-help>Got it</button></div></div>
+  <script src="mobile-nav.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

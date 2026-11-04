@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#f4f5f1" />
+  <title>Baseline — football streak history</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="football-history.css" />
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="index.html" aria-label="Baseline home"><span class="brand-mark"><i></i><i></i><i></i></span><span>baseline<span class="brand-dot">.</span></span></a>
+      <div class="side-label">WORKSPACE</div>
+      <a class="nav-item" href="index.html"><span class="nav-icon">▦</span> Tennis board</a>
+      <a class="nav-item" href="football.html"><span class="nav-icon">⚽</span> Football board</a>
+      <a class="nav-item active" href="football-history.html"><span class="nav-icon">↗</span> History report</a>
+      <div class="side-label tour-label">COMPETITIONS</div>
+      <div class="league-list"><span>🏴 Premier League</span><span>🇪🇸 La Liga</span><span>🇩🇪 Bundesliga</span><span>🇮🇹 Serie A</span></div>
+      <div class="sidebar-bottom"><div class="sync-dot"></div><span>Local report</span></div>
+    </aside>
+    <main class="main history-main">
+      <header class="topbar"><div class="breadcrumbs">Workspace <span>/</span> Football <span>/</span> <b>History</b></div><div class="top-actions"><span class="live-tag"><i></i> MATCH HISTORY</span><a class="avatar avatar-link" href="football.html" aria-label="Football board">F</a></div></header>
+      <section class="page-head"><div><div class="eyebrow">FOOTBALL <span>·</span> HISTORICAL REPORT</div><h1>Parity streak history</h1><p class="subtitle">Every completed match in the selected seasons, grouped into uninterrupted even and odd goal runs.</p></div></section>
+      <section class="history-controls board-panel">
+        <label>First season start year<input id="start-season" type="number" min="2000" step="1" value="2023"></label>
+        <label>Last season start year<input id="end-season" type="number" min="2000" step="1" value="2026"></label>
+        <button class="button button-primary" id="load-history">Load history</button>
+        <button class="button button-quiet" id="export-history" disabled>Export CSV</button>
+        <p class="history-note">Seasons are football season start years (for example, 2023 means 2023–24). The report downloads four free result CSVs per season from Football-Data.co.uk and caches successful responses locally and in this browser. Data is provided for private, non-commercial use.</p>
+      </section>
+      <div id="history-status" class="history-status" role="status">Choose the season range and load match history.</div>
+      <section class="summary-grid history-summary" aria-label="Report totals">
+        <article class="summary-card"><div class="summary-label">TEAMS</div><div class="summary-value" id="history-teams">—</div><div class="summary-note">Across selected competitions</div></article>
+        <article class="summary-card"><div class="summary-label">COMPLETED MATCHES</div><div class="summary-value" id="history-matches">—</div><div class="summary-note">Each match counted for both teams</div></article>
+        <article class="summary-card"><div class="summary-label">LONGEST STREAK</div><div class="summary-value" id="history-longest">—</div><div class="summary-note">Consecutive matches with same parity</div></article>
+        <article class="summary-card"><div class="summary-label">SEASONS</div><div class="summary-value" id="history-seasons">—</div><div class="summary-note">Requested season start years</div></article>
+      </section>
+      <section class="board-panel history-panel">
+        <div class="board-toolbar"><div class="board-title"><h2>Teams ranked by longest historical run</h2><span class="row-count" id="history-row-count">WAITING</span></div><label class="search-box"><span>⌕</span><input id="team-search" type="search" placeholder="Find a team…" aria-label="Find a team" /></label></div>
+        <div class="table-scroll"><table class="history-table"><thead><tr><th>RANK</th><th>TEAM</th><th>COMPETITION</th><th>MATCHES</th><th>LONGEST</th><th>STREAK LENGTH → OCCURRENCES</th></tr></thead><tbody id="history-rows"><tr><td colspan="6" class="empty-state">History has not been loaded yet.</td></tr></tbody></table></div>
+        <div class="table-footer"><span id="history-footer">Streak counts represent maximal runs across the entire selected date range.</span><span class="foot-legend"><i class="legend-even"></i> Even total goals <i class="legend-odd"></i> Odd total goals</span></div>
+      </section>
+      <footer><span>BASELINE <b>·</b> FOOTBALL HISTORY</span><span>Source: <a href="https://www.football-data.co.uk/data.php" target="_blank" rel="noopener">Football-Data.co.uk</a></span></footer>
+    </main>
+  </div>
+  <script src="football-history.js"></script>
+</body>
+</html>

@@ -3,3 +3,48 @@
 .local-key{display:flex;gap:5px;align-items:center}.local-key input{width:145px;height:31px;border:1px solid #e7ebe6;border-radius:5px;padding:0 8px;font:10px var(--sans);outline:none}.local-key .button{height:31px;padding:0 8px;font-size:10px}@media(max-width:700px){.local-key{flex:1}.local-key input{flex:1;width:auto;min-width:90px}}
 .football-nav{text-decoration:none}.league-list{display:flex;flex-direction:column;gap:13px;padding:3px 10px;color:#718077;font-size:11px}.team-picker-actions{display:flex;justify-content:space-between;padding:1px 5px 5px}.team-picker-actions button{border:0;background:transparent;color:#3c7852;font:10px var(--sans);cursor:pointer}.avatar-link{display:grid;place-items:center;text-decoration:none}.team-cell{display:flex;align-items:center;gap:10px}.team-avatar{width:29px;height:29px;display:grid;place-items:center;border-radius:7px;font:600 9px var(--display);color:#315e45;background:#e7efe8;flex:0 0 auto}.team-league{font:9px var(--mono);color:#8f9a93}.team-name{font:600 11px var(--sans);color:#26352d}.team-empty{color:#a2aba5}.team-board-empty{text-align:center;padding:52px 24px;color:#89948e;font-size:12px;line-height:1.8}.team-board-empty b{color:#52645a}.match-tiles{display:flex;gap:3px;align-items:center}.match-tiles i{height:7px;width:7px;border-radius:2px;background:#d5e8da}.match-tiles i.odd{background:#f5dfca}@media(max-width:700px){.league-list{display:none}}
 .football-fetch-message{min-height:18px;text-align:right;color:#78847e;font-size:10px;margin:-13px 0 9px}.football-fetch-message:empty{display:none}#refresh-data:disabled{opacity:.6;cursor:wait}@media(max-width:700px){.football-fetch-message{text-align:left;margin:-8px 0 9px}}
+
+@media print{
+  @page{size:landscape;margin:12mm}
+  body{background:#fff;color:#17231f;font-size:10px}
+  .sidebar,.topbar,.page-head,.summary-grid,footer,.football-fetch-message{display:none!important}
+  .main{margin:0!important;padding:0!important;max-width:none!important}
+  .board-panel{border:0;border-radius:0;overflow:visible}
+  .board-toolbar{height:auto;padding:0 0 12px;border:0}
+  .toolbar-controls,.fetch-message{display:none!important}
+  .board-title h2{font-size:18px}
+  .row-count{background:transparent;padding:0}
+  .table-scroll{overflow:visible!important}
+  table{width:100%!important;min-width:0!important;table-layout:auto}
+  thead th{height:auto;padding:7px 5px;font-size:8px;background:#f5f7f4!important;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  thead th:first-child,td:first-child{padding-left:5px}
+  thead th:nth-child(2){width:auto}
+  thead th:nth-child(7){min-width:0}
+  tbody tr.player-row{height:auto;min-height:35px;break-inside:avoid}
+  td{padding:6px 5px;font-size:9px}
+  .player-avatar,.team-avatar{width:22px;height:22px}
+  .sparkline,.match-tiles{gap:2px;flex-wrap:wrap;max-width:210px}
+  .sparkline i,.match-tiles i{width:5px;height:5px}
+  .table-footer{padding:8px 5px 0;height:auto}
+  .latest-pill{padding:3px 5px}
+  a{color:inherit;text-decoration:none}
+}
+
+/* Mobile navigation */
+.sidebar-content{display:flex;flex:1;flex-direction:column;min-height:0}
+.mobile-nav-toggle{display:none}
+@media(max-width:700px){
+  .sidebar{position:sticky;top:0;z-index:10;justify-content:space-between}
+  .brand{padding:0}
+  .mobile-nav-toggle{display:flex;width:38px;height:38px;flex-direction:column;align-items:center;justify-content:center;gap:4px;border:1px solid var(--line);border-radius:7px;background:#fff;cursor:pointer}
+  .mobile-nav-toggle span{width:16px;height:2px;border-radius:2px;background:#52605a}
+  .sidebar-content{display:none}
+  .sidebar.mobile-nav-open{position:fixed;left:0;right:0;top:0;bottom:auto;width:auto;height:auto;min-height:55px;padding:0 17px;background:#fcfcfa;box-shadow:0 8px 24px #17231f22}
+  .sidebar.mobile-nav-open::before{content:'';position:fixed;inset:55px 0 0;background:#17231f55;z-index:-1}
+  .sidebar.mobile-nav-open .sidebar-content{display:flex;position:absolute;top:55px;left:0;right:0;padding:12px 17px 17px;background:#fcfcfa;border-bottom:1px solid var(--line);box-shadow:0 8px 18px #17231f12}
+  .sidebar.mobile-nav-open .side-label,.sidebar.mobile-nav-open .nav-item,.sidebar.mobile-nav-open .tour-select,.sidebar.mobile-nav-open .sidebar-bottom{display:flex}
+  .sidebar.mobile-nav-open .side-label{display:block}
+  .sidebar.mobile-nav-open .tour-label{margin-top:18px}
+  .sidebar.mobile-nav-open .sidebar-bottom{margin-top:16px}
+  .sidebar.mobile-nav-open .league-list{display:flex;flex-direction:column}
+}
