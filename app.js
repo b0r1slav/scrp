@@ -1,6 +1,35 @@
 const PLAYERS = [
-  ['sinner-jannik','Jannik Sinner','ITA','JS'],['alcaraz-garfia-carlos','Carlos Alcaraz','ESP','CA'],['zverev-alexander','Alexander Zverev','GER','AZ'],['auger-aliassime-felix','Felix Auger-Aliassime','CAN','FA'],['shelton-ben','Ben Shelton','USA','BS'],['medvedev-daniil','Daniil Medvedev','RUS','DM'],['de-minaur-alex','Alex de Minaur','AUS','AM'],['fritz-taylor','Taylor Fritz','USA','TF'],['cobolli-flavio','Flavio Cobolli','ITA','FC'],['bublik-alexander','Alexander Bublik','KAZ','AB'],['lehecka-jiri','Jiri Lehecka','CZE','JL'],['musetti-lorenzo','Lorenzo Musetti','ITA','LM'],['mensik-jakub','Jakub Mensik','CZE','JM'],['ruud-casper','Casper Ruud','NOR','CR'],['rublev-andrey','Andrey Rublev','RUS','AR'],['tiafoe-frances','Frances Tiafoe','USA','FT'],['davidovich-fokina-alejandro','Alejandro Davidovich Fokina','ESP','AF'],['khachanov-karen','Karen Khachanov','RUS','KK']
-].map(([slug,name,country,initials],i)=>({slug,name,country,initials,link:`https://www.flashscore.com/player/${slug}/${['6HdC3z4H','UkhgIFEq','dGbUhw9m','CzXh4LAb','QNuG0Gzb','O8qG0Nhb','EZgZ9Xfh','UH09iaZ6','zDtaCcPe','t0WN9vR6','6PlgfXKR','xtH2ODVI','UFj257G8','zN9UpRqp','AeAn4gP0','AHDLJaph','0zQXLfz4','4bNPtZT5'][i]}/results`}));
+  ['zverev-alexander','Alexander Zverev','GER','AZ','dGbUhw9m'],
+  ['sinner-jannik','Jannik Sinner','ITA','JS','6HdC3z4H'],
+  ['alcaraz-garfia-carlos','Carlos Alcaraz','ESP','CA','UkhgIFEq'],
+  ['shelton-ben','Ben Shelton','USA','BS','QNuG0Gzb'],
+  ['medvedev-daniil','Daniil Medvedev','RUS','DM','O8qG0Nhb'],
+  ['cobolli-flavio','Flavio Cobolli','ITA','FC','zDtaCcPe'],
+  ['arthur-fils','Arthur Fils','FRA','AF','IoIhUqIN'],
+  ['tiafoe-frances','Frances Tiafoe','USA','FT','AHDLJaph'],
+  ['de-minaur-alex','Alex de Minaur','AUS','AM','EZgZ9Xfh'],
+  ['jodar-rafael','Rafael Jodar','ESP','RJ','OdngshVK'],
+  ['djokovic-novak','Novak Djokovic','SRB','ND','AZg49Et9'],
+  ['fritz-taylor','Taylor Fritz','USA','TF','UH09iaZ6'],
+  ['auger-aliassime-felix','Felix Auger-Aliassime','CAN','FA','CzXh4LAb'],
+  ['paul-tommy','Tommy Paul','USA','TP','pd3ye1BS'],
+  ['lehecka-jiri','Jiri Lehecka','CZE','JL','6PlgfXKR'],
+  ['mensik-jakub','Jakub Mensik','CZE','JM','UFj257G8'],
+  ['davidovich-fokina-alejandro','Alejandro Davidovich Fokina','ESP','AF','0zQXLfz4'],
+  ['nakashima-brandon','Brandon Nakashima','USA','BN','ETGnbrpH'],
+  ['tien-learner','Learner Tien','USA','LT','xUHOBJK6'],
+  ['cerundolo-francisco','Francisco Cerundolo','ARG','FC','lWQ3G6gB'],
+  ['darderi-luciano','Luciano Darderi','ITA','LD','jeXTxMIp'],
+  ['rublev-andrey','Andrey Rublev','RUS','AR','AeAn4gP0'],
+  ['ruud-casper','Casper Ruud','NOR','CR','zN9UpRqp'],
+  ['musetti-lorenzo','Lorenzo Musetti','ITA','LM','xtH2ODVI'],
+  ['khachanov-karen','Karen Khachanov','RUS','KK','4bNPtZT5'],
+  ['bublik-alexander','Alexander Bublik','KAZ','AB','t0WN9vR6'],
+  ['vacherot-valentin','Valentin Vacherot','MON','VV','rFqoSYd8'],
+  ['blockx-alexander','Alexander Blockx','BEL','AB','xll0TzGG'],
+  ['hurkacz-hubert','Hubert Hurkacz','POL','HH','zuHOBnY9'],
+  ['tabilo-alejandro','Alejandro Tabilo','CHI','AT','YgVnM5vO']
+].map(([slug,name,country,initials,id])=>({slug,name,country,initials,link:`https://www.flashscore.com/player/${slug}/${id}/results/`}));
 
 const DATA_KEY='baseline_results_v1';
 const demoData={};
@@ -14,8 +43,8 @@ let selectedPlayers=new Set(),selectionApplied=false;
 function togglePlayerOption(slug){if(selectedPlayers.has(slug))selectedPlayers.delete(slug);else selectedPlayers.add(slug);renderPlayerOptions();}
 function renderPlayerOptions(){const query=document.getElementById('player-picker-search').value.trim().toLowerCase();const menu=document.getElementById('player-picker-options');menu.innerHTML=PLAYERS.filter(p=>p.name.toLowerCase().includes(query)||p.country.toLowerCase().includes(query)).map(p=>`<label class="player-option"><input type="checkbox" value="${p.slug}" ${selectedPlayers.has(p.slug)?'checked':''}><span>${esc(p.name)}</span><small>${p.country}</small></label>`).join('');menu.querySelectorAll('input').forEach(input=>input.addEventListener('change',()=>togglePlayerOption(input.value)));document.getElementById('player-picker-label').textContent=selectedPlayers.size?`${selectedPlayers.size} selected`:'Select players';}
 const CITO_PROXY='https://raspy-frog-d6b6.borislav-madzharov.workers.dev/api/cito';
-async function fetchLivePlayer(p){const response=await fetch(`${CITO_PROXY}/players/${encodeURIComponent(p.slug)}/matches`,{cache:'no-store'});const payload=await response.json().catch(()=>({}));if(!response.ok)throw new Error(payload.error||`HTTP ${response.status}`);if(!Array.isArray(payload.matches))throw new Error('Invalid player data');return payload.matches;}
-async function fetchSelectedPlayers(){if(!selectedPlayers.size){document.getElementById('fetch-message').textContent='Select at least one player.';return;}const button=document.getElementById('fetch-selected');button.disabled=true;document.getElementById('fetch-message').textContent='Fetching selected players from Cito…';const failures=[];for(const slug of [...selectedPlayers]){const player=PLAYERS.find(p=>p.slug===slug);try{liveData[slug]=await fetchLivePlayer(player);}catch(error){failures.push(`${player?.name||slug}: ${error.message}`);}}selectedPlayers=new Set([...selectedPlayers].filter(slug=>Array.isArray(liveData[slug])));selectionApplied=selectedPlayers.size>0;renderPlayerOptions();render();button.disabled=false;document.getElementById('fetch-message').textContent=failures.length?`Some selected data is unavailable: ${failures.join('; ')}`:`Loaded ${selectedPlayers.size} player${selectedPlayers.size===1?'':'s'} from Cito.`;}
+async function fetchLivePlayers(players){const response=await fetch(`${CITO_PROXY}/players/matches`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({players:players.map(({slug,name})=>({slug,name}))}),cache:'no-store'});const payload=await response.json().catch(()=>({}));if(!response.ok)throw new Error(payload.error||`HTTP ${response.status}`);if(!Array.isArray(payload.results))throw new Error('Invalid player data');return payload.results;}
+async function fetchSelectedPlayers(){if(!selectedPlayers.size){document.getElementById('fetch-message').textContent='Select at least one player.';return;}const button=document.getElementById('fetch-selected');button.disabled=true;document.getElementById('fetch-message').textContent='Fetching selected players from Cito…';const failures=[];const players=PLAYERS.filter(p=>selectedPlayers.has(p.slug));for(let i=0;i<players.length;i+=10){try{const results=await fetchLivePlayers(players.slice(i,i+10));for(const result of results){if(result.error)failures.push(`${PLAYERS.find(p=>p.slug===result.slug)?.name||result.slug}: ${result.error}`);else if(Array.isArray(result.matches))liveData[result.slug]=result.matches;else failures.push(`${result.slug}: Invalid player data`);}}catch(error){failures.push(...players.slice(i,i+10).map(p=>`${p.name}: ${error.message}`));}}selectedPlayers=new Set([...selectedPlayers].filter(slug=>Array.isArray(liveData[slug])));selectionApplied=selectedPlayers.size>0;renderPlayerOptions();render();button.disabled=false;document.getElementById('fetch-message').textContent=failures.length?`Some selected data is unavailable: ${failures.join('; ')}`:`Loaded ${selectedPlayers.size} player${selectedPlayers.size===1?'':'s'} from Cito.`;}
 function parseSets(score){if(Array.isArray(score))return score.map(s=>Array.isArray(s)?s.map(Number):String(s).match(/\d+/g)?.slice(0,2).map(Number)).filter(x=>x&&x.length===2);const matches=[...String(score||'').matchAll(/(\d+)\s*[-:]\s*(\d+)/g)];return matches.map(m=>[Number(m[1]),Number(m[2])]);}
 function normalizeMatch(m){return {score:m.score??m.result??m.sets??'',date:m.date??m.matchDate??'',opponent:m.opponent??m.player2??m.opponentName??'Opponent',draw:m.draw??m.type??'singles',status:m.status??m.state??''};}
 function accepted(raw){const m=normalizeMatch(raw),sets=parseSets(m.score),draw=String(m.draw).toLowerCase(),status=String(m.status).trim().toUpperCase();if(status!=='COMPLETED'||!sets.length||draw.includes('double')||draw==='d')return false;const last=sets[sets.length-1];return Math.max(...last)>=6;}
